@@ -1,0 +1,5985 @@
+{
+  "status": "checked",
+  "inputSignature": "a86301b5076670b104b9b62b2d205933e893086326c35580cf9f97734fdb42a2",
+  "rdkitVersion": "2025.09.5",
+  "rows": [
+    {
+      "id": "DMSMPAJRVJJAGA-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "DMSMPAJRVJJAGA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5NOS",
+      "computedFormulaForAudit": "C7H5NOS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OWRCNXZUPFZXOS-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "OWRCNXZUPFZXOS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H13N3",
+      "computedFormulaForAudit": "C13H13N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ONHFWHCMZAJCFB-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "ONHFWHCMZAJCFB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H35NO",
+      "computedFormulaForAudit": "C16H35NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QRUDEWIWKLJBPS-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "QRUDEWIWKLJBPS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H5N3",
+      "computedFormulaForAudit": "C6H5N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UFBJCMHMOXMLKC-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "UFBJCMHMOXMLKC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H4N2O5",
+      "computedFormulaForAudit": "C6H4N2O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H22O5",
+      "computedFormulaForAudit": "C10H22O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UTBVIMLZIRIFFR-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "UTBVIMLZIRIFFR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H7NS2",
+      "computedFormulaForAudit": "C8H7NS2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZCXGMSGCBDSEOY-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "ZCXGMSGCBDSEOY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5NO3S2",
+      "computedFormulaForAudit": "C7H5NO3S2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CGSLYBDCEGBZCG-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "CGSLYBDCEGBZCG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H27O4P",
+      "computedFormulaForAudit": "C20H27O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YEDUAINPPJYDJZ-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "YEDUAINPPJYDJZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5NOS",
+      "computedFormulaForAudit": "C7H5NOS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KVBGVZZKJNLNJU-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "KVBGVZZKJNLNJU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H8O3S",
+      "computedFormulaForAudit": "C10H8O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OIAGWXKSCXPNNZ-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "OIAGWXKSCXPNNZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H15N3O2",
+      "computedFormulaForAudit": "C13H15N3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PMZDQRJGMBOQBF-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "PMZDQRJGMBOQBF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H7NO",
+      "computedFormulaForAudit": "C9H7NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LXOFYPKXCSULTL-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "LXOFYPKXCSULTL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H26O2",
+      "computedFormulaForAudit": "C14H26O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AFYCEAFSNDLKSX-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "AFYCEAFSNDLKSX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H17NO2",
+      "computedFormulaForAudit": "C14H17NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LLEMOWNGBBNAJR-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "LLEMOWNGBBNAJR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H10O",
+      "computedFormulaForAudit": "C12H10O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RLFWWDJHLFCNIJ-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "RLFWWDJHLFCNIJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H13N3O",
+      "computedFormulaForAudit": "C11H13N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VEQOALNAAJBPNY-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "VEQOALNAAJBPNY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H12N2O",
+      "computedFormulaForAudit": "C11H12N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MXWJVTOOROXGIU-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "MXWJVTOOROXGIU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H14ClN5",
+      "computedFormulaForAudit": "C8H14ClN5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DFWFIQKMSFGDCQ-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "DFWFIQKMSFGDCQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H10ClN5",
+      "computedFormulaForAudit": "C6H10ClN5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IOJUPLGTWVMSFF-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "IOJUPLGTWVMSFF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5NS",
+      "computedFormulaForAudit": "C7H5NS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QDYLMAYUEZBUFO-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "QDYLMAYUEZBUFO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C25H46N",
+      "computedFormulaForAudit": "C25H46N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "WNBGYVXHFTYOBY-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "WNBGYVXHFTYOBY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C23H42N",
+      "computedFormulaForAudit": "C23H42N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H16O2",
+      "computedFormulaForAudit": "C15H16O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VPWNQTHUCYMVMZ-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "VPWNQTHUCYMVMZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H10O4S",
+      "computedFormulaForAudit": "C12H10O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H10N4O2",
+      "computedFormulaForAudit": "C8H10N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H12N2O",
+      "computedFormulaForAudit": "C15H12N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PGOOBECODWQEAB-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "PGOOBECODWQEAB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H8ClN5O2S",
+      "computedFormulaForAudit": "C6H8ClN5O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UIKROCXWUNQSPJ-VIFPVBQESA-N",
+      "nt52": true,
+      "computedInChIKey": "UIKROCXWUNQSPJ-VIFPVBQESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H12N2O",
+      "computedFormulaForAudit": "C10H12N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HCAJEUSONLESMK-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "HCAJEUSONLESMK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H13NO3S",
+      "computedFormulaForAudit": "C6H13NO3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XBPCUCUWBYBCDP-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "XBPCUCUWBYBCDP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H23N",
+      "computedFormulaForAudit": "C12H23N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YVGGHNCTFXOJCH-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "YVGGHNCTFXOJCH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H9Cl5",
+      "computedFormulaForAudit": "C14H9Cl5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FLKPEMZONWLCSK-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "FLKPEMZONWLCSK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H14O4",
+      "computedFormulaForAudit": "C12H14O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LGHZJDKSVUTELU-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "LGHZJDKSVUTELU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H4Cl2F6N4O2S",
+      "computedFormulaForAudit": "C12H4Cl2F6N4O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UGJMXCAKCUNAIE-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "UGJMXCAKCUNAIE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H17NO2",
+      "computedFormulaForAudit": "C9H17NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BNCADMBVWNPPIZ-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "BNCADMBVWNPPIZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H30N6O6",
+      "computedFormulaForAudit": "C15H30N6O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RLGQACBPNDBWTB-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "RLGQACBPNDBWTB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H42N",
+      "computedFormulaForAudit": "C19H42N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H18O2",
+      "computedFormulaForAudit": "C13H18O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H10ClN5O2",
+      "computedFormulaForAudit": "C9H10ClN5O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AOMUHOFOVNGZAN-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "AOMUHOFOVNGZAN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H33NO3",
+      "computedFormulaForAudit": "C16H33NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MOTZDAYCYVMXPC-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "MOTZDAYCYVMXPC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H26O4S",
+      "computedFormulaForAudit": "C12H26O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H9NO",
+      "computedFormulaForAudit": "C5H9NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8HF15O2",
+      "computedFormulaForAudit": "C8HF15O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MXXWOMGUGJBKIW-YPCIICBESA-N",
+      "nt52": true,
+      "computedInChIKey": "MXXWOMGUGJBKIW-YPCIICBESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO3",
+      "computedFormulaForAudit": "C17H19NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H6O3",
+      "computedFormulaForAudit": "C7H6O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WTLBZVNBAKMVDP-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "WTLBZVNBAKMVDP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H39O7P",
+      "computedFormulaForAudit": "C18H39O7P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DOOTYTYQINUNNV-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "DOOTYTYQINUNNV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H20O7",
+      "computedFormulaForAudit": "C12H20O7",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HRKAMJBPFPHCSD-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "HRKAMJBPFPHCSD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H27O4P",
+      "computedFormulaForAudit": "C12H27O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ASLWPAWFJZFCKF-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "ASLWPAWFJZFCKF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H15Cl6O4P",
+      "computedFormulaForAudit": "C9H15Cl6O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KVMPUXDNESXNOH-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "KVMPUXDNESXNOH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H18Cl3O4P",
+      "computedFormulaForAudit": "C9H18Cl3O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HQUQLFOMPYWACS-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "HQUQLFOMPYWACS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H12Cl3O4P",
+      "computedFormulaForAudit": "C6H12Cl3O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SGTNSNPWRIOYBX-UHFFFAOYSA-N",
+      "nt52": true,
+      "computedInChIKey": "SGTNSNPWRIOYBX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C27H38N2O4",
+      "computedFormulaForAudit": "C27H38N2O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DLNKOYKMWOXYQA-VXNVDRBHSA-N",
+      "nt52": false,
+      "computedInChIKey": "DLNKOYKMWOXYQA-VXNVDRBHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H13NO",
+      "computedFormulaForAudit": "C9H13NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GKTWGGQPFAXNFI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GKTWGGQPFAXNFI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H16ClNO2S",
+      "computedFormulaForAudit": "C16H16ClNO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MYKUKUCHPMASKF-VIFPVBQESA-N",
+      "nt52": false,
+      "computedInChIKey": "MYKUKUCHPMASKF-VIFPVBQESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H12N2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "XMAYWYJOQHXEEK-OZXSUGGESA-N",
+      "nt52": false,
+      "computedInChIKey": "XMAYWYJOQHXEEK-OZXSUGGESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C26H28Cl2N4O4",
+      "computedFormulaForAudit": "C26H28Cl2N4O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RYAUSSKQMZRMAI-ALOPSCKCNA-N",
+      "nt52": false,
+      "computedInChIKey": "RYAUSSKQMZRMAI-ALOPSCKCSA-N",
+      "structureStatus": "same_connectivity_stereochemistry_review",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C20H33NO",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ZMYFCFLJBGAQRS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZMYFCFLJBGAQRS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H13ClFN3O",
+      "computedFormulaForAudit": "C17H13ClFN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AJRJPORIQGYFMT-PVOVUMCXSA-N",
+      "nt52": false,
+      "computedInChIKey": "AJRJPORIQGYFMT-PVOVUMCXSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H23N",
+      "computedFormulaForAudit": "C20H23N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JLYXXMFPNIAWKQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H6Cl6",
+      "computedFormulaForAudit": "C6H6Cl6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IBXPYPUJPLLOIN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IBXPYPUJPLLOIN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H7N3O2",
+      "computedFormulaForAudit": "C5H7N3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ONKNPOPIGWHAQC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ONKNPOPIGWHAQC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H26O",
+      "computedFormulaForAudit": "C18H26O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RUOTUMSRCIMLJK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RUOTUMSRCIMLJK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H17N5O",
+      "computedFormulaForAudit": "C9H17N5O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HTXMGVTWXZBZNC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HTXMGVTWXZBZNC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H10O7S",
+      "computedFormulaForAudit": "C10H10O7S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JYGFTBXVXVMTGB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JYGFTBXVXVMTGB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H7NO",
+      "computedFormulaForAudit": "C8H7NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CYSGHNMQYZDMIA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CYSGHNMQYZDMIA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H10N2O",
+      "computedFormulaForAudit": "C5H10N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WKASGTGXOGALBG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WKASGTGXOGALBG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H14N4O4",
+      "computedFormulaForAudit": "C11H14N4O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SWUVZKWCOBGPTH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SWUVZKWCOBGPTH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H23NO",
+      "computedFormulaForAudit": "C16H23NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IMFACGCPASFAPR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IMFACGCPASFAPR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H27N",
+      "computedFormulaForAudit": "C12H27N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YWWNNLPSZSEZNZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YWWNNLPSZSEZNZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H27N",
+      "computedFormulaForAudit": "C12H27N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YWFWDNVOPHGWMX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YWFWDNVOPHGWMX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H31N",
+      "computedFormulaForAudit": "C14H31N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NJMWOUFKYKNWDW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NJMWOUFKYKNWDW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H11N2",
+      "computedFormulaForAudit": "C6H11N2+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "TYIOVYZMKITKRO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "TYIOVYZMKITKRO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H41NO2",
+      "computedFormulaForAudit": "C20H41NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ASOKPJOREAFHNY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ASOKPJOREAFHNY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H5N3O",
+      "computedFormulaForAudit": "C6H5N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QHSMEGADRFZVNE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QHSMEGADRFZVNE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H13ClFN3O",
+      "computedFormulaForAudit": "C18H13ClFN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HUYJTJXLNBOVFO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HUYJTJXLNBOVFO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H8O4S",
+      "computedFormulaForAudit": "C10H8O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SFBHPFQSSDCYSL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SFBHPFQSSDCYSL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H35N",
+      "computedFormulaForAudit": "C16H35N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PRGQOPPDPVELEG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PRGQOPPDPVELEG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H14N2O3",
+      "computedFormulaForAudit": "C15H14N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BMPDWHIDQYTSHX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BMPDWHIDQYTSHX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H14N2O2",
+      "computedFormulaForAudit": "C15H14N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QGKQXZFZOIQFBI-XSWYFRFISA-N",
+      "nt52": false,
+      "computedInChIKey": "QGKQXZFZOIQFBI-XSWYFRFISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H34O2",
+      "computedFormulaForAudit": "C20H34O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VOXZDWNPVJITMN-ZBRFXRBCSA-N",
+      "nt52": false,
+      "computedInChIKey": "VOXZDWNPVJITMN-ZBRFXRBCSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H24O2",
+      "computedFormulaForAudit": "C18H24O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UOUIARGWRPHDBX-CQZDKXCPSA-N",
+      "nt52": false,
+      "computedInChIKey": "UOUIARGWRPHDBX-CQZDKXCPSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H28O2",
+      "computedFormulaForAudit": "C18H28O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HXQHRUJXQJEGER-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HXQHRUJXQJEGER-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H7N3",
+      "computedFormulaForAudit": "C7H7N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LISFMEBWQUVKPJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LISFMEBWQUVKPJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H7NO",
+      "computedFormulaForAudit": "C9H7NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JWUXJYZVKZKLTJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JWUXJYZVKZKLTJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H17NO",
+      "computedFormulaForAudit": "C9H17NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QFYZFYDOEJZMDX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QFYZFYDOEJZMDX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H12N2O2",
+      "computedFormulaForAudit": "C12H12N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ATCRIUVQKHMXSH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ATCRIUVQKHMXSH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H4Cl2O2",
+      "computedFormulaForAudit": "C7H4Cl2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HFZWRUODUSTPEG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HFZWRUODUSTPEG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H4Cl2O",
+      "computedFormulaForAudit": "C6H4Cl2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OVSKIKFHRZPJSS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OVSKIKFHRZPJSS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H6Cl2O3",
+      "computedFormulaForAudit": "C8H6Cl2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZXDDPOHVAMWLBH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZXDDPOHVAMWLBH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H10O3",
+      "computedFormulaForAudit": "C13H10O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CHZLVSBMXZSPNN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CHZLVSBMXZSPNN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H10O3S",
+      "computedFormulaForAudit": "C8H10O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VVUVJGRVEYHIHC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VVUVJGRVEYHIHC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H12N2OS",
+      "computedFormulaForAudit": "C11H12N2OS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CMWTZPSULFXXJA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CMWTZPSULFXXJA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H14O3",
+      "computedFormulaForAudit": "C14H14O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ASEFUFIKYOCPIJ-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "ASEFUFIKYOCPIJ-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H29NaO5S",
+      "computedFormulaForAudit": "C14H29NaO5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KTALPKYXQZGAEG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KTALPKYXQZGAEG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H14OS",
+      "computedFormulaForAudit": "C16H14OS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UQVKZNNCIHJZLS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UQVKZNNCIHJZLS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H12N4",
+      "computedFormulaForAudit": "C13H12N4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JWYUFVNJZUSCSM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JWYUFVNJZUSCSM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H7N3",
+      "computedFormulaForAudit": "C7H7N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WBIQQQGBSDOWNP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WBIQQQGBSDOWNP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H30O3S",
+      "computedFormulaForAudit": "C18H30O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YBGZDTIWKVFICR-JLHYYAGUSA-N",
+      "nt52": false,
+      "computedInChIKey": "YBGZDTIWKVFICR-JLHYYAGUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H26O3",
+      "computedFormulaForAudit": "C18H26O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VPZIYMMSJFWLSP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VPZIYMMSJFWLSP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H12N2O2",
+      "computedFormulaForAudit": "C15H12N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UJHKVYPPCJBOSG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UJHKVYPPCJBOSG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C13H18O3",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "AJPIUNPJBFBUKK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AJPIUNPJBFBUKK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C8H12N2O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "YXIWHUQXZSMYRE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YXIWHUQXZSMYRE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5NS2",
+      "computedFormulaForAudit": "C7H5NS2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H9N",
+      "computedFormulaForAudit": "C7H9N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DXYYSGDWQCSKKO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DXYYSGDWQCSKKO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H7NS",
+      "computedFormulaForAudit": "C8H7NS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UWPJYQYRSWYIGZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UWPJYQYRSWYIGZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C10H9NO3S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "BHHGXPLMPWCGHP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BHHGXPLMPWCGHP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H11N",
+      "computedFormulaForAudit": "C8H11N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JFZHPFOXAAIUMB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JFZHPFOXAAIUMB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H14N2O2",
+      "computedFormulaForAudit": "C11H14N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OTNIKUTWXUODJZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OTNIKUTWXUODJZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H13NO2",
+      "computedFormulaForAudit": "C12H13NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GLNDAGDHSLMOKX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GLNDAGDHSLMOKX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H9NO2",
+      "computedFormulaForAudit": "C10H9NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FEWPCPCEGBPTAL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FEWPCPCEGBPTAL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C4H4ClN3O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "UQCNKQCJZOAFTQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UQCNKQCJZOAFTQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO4",
+      "computedFormulaForAudit": "C17H19NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GBNHEBQXJVDXSW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GBNHEBQXJVDXSW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H3Cl3O",
+      "computedFormulaForAudit": "C6H3Cl3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CYESCLHCWJKRKM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CYESCLHCWJKRKM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C7H6Cl2N2O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "PVXVWWANJIWJOO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PVXVWWANJIWJOO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H17NO2",
+      "computedFormulaForAudit": "C12H17NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SHXWCVYOXRDMCX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SHXWCVYOXRDMCX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H15NO2",
+      "computedFormulaForAudit": "C11H15NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WCYYAQFQZQEUEN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WCYYAQFQZQEUEN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H2Cl3NO",
+      "computedFormulaForAudit": "C5H2Cl3NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PHWAJJWKNLWZGJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PHWAJJWKNLWZGJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H4Br2O3",
+      "computedFormulaForAudit": "C7H4Br2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WPMWEFXCIYCJSA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WPMWEFXCIYCJSA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H42O5",
+      "computedFormulaForAudit": "C20H42O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GVGYEFKIHJTNQZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GVGYEFKIHJTNQZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H19NO4",
+      "computedFormulaForAudit": "C16H19NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IQQRAVYLUAZUGX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IQQRAVYLUAZUGX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H15N2",
+      "computedFormulaForAudit": "C8H15N2+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "XIUCEANTZSXBQQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XIUCEANTZSXBQQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C6H15ClNO+",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "VEJWNIYARKAHFI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VEJWNIYARKAHFI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15NO",
+      "computedFormulaForAudit": "C10H15NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WECDUOXQLAIPQW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WECDUOXQLAIPQW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H18N2",
+      "computedFormulaForAudit": "C15H18N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ISAVYTVYFVQUDY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ISAVYTVYFVQUDY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H22O",
+      "computedFormulaForAudit": "C14H22O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BAYGVMXZJBFEMB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BAYGVMXZJBFEMB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5F3O",
+      "computedFormulaForAudit": "C7H5F3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NUISVCFZNCYUIM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NUISVCFZNCYUIM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C7H13N5O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "CHMBIJAOCISYEW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CHMBIJAOCISYEW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H10N2O",
+      "computedFormulaForAudit": "C8H10N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QIKYZXDTTPVVAC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QIKYZXDTTPVVAC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H8N2O",
+      "computedFormulaForAudit": "C7H8N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WSCUHXPGYUMQEX-KCZNZURUSA-N",
+      "nt52": false,
+      "computedInChIKey": "WSCUHXPGYUMQEX-KCZNZURUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H26O3",
+      "computedFormulaForAudit": "C19H26O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QSNSCYSYFYORTR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QSNSCYSYFYORTR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H6ClN",
+      "computedFormulaForAudit": "C6H6ClN",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WSJBSKRPKADYRQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WSJBSKRPKADYRQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H13N3O2",
+      "computedFormulaForAudit": "C12H13N3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MDQKYGOECVSPIW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MDQKYGOECVSPIW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8HCl3N2O",
+      "computedFormulaForAudit": "C8HCl3N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UVDWYWYWOMOEFX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UVDWYWYWOMOEFX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H17NO2",
+      "computedFormulaForAudit": "C11H17NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JMTMSDXUXJISAY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JMTMSDXUXJISAY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H5N3O",
+      "computedFormulaForAudit": "C6H5N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XQZVQQZZOVBNLU-QDTBLXIISA-N",
+      "nt52": false,
+      "computedInChIKey": "XQZVQQZZOVBNLU-QDTBLXIISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H22O3",
+      "computedFormulaForAudit": "C18H22O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NEGYEDYHPHMHGK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NEGYEDYHPHMHGK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15NO",
+      "computedFormulaForAudit": "C10H15NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BLXVTZPGEOGTGG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BLXVTZPGEOGTGG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H32O3",
+      "computedFormulaForAudit": "C19H32O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KUXGUCNZFCVULO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KUXGUCNZFCVULO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H28O2",
+      "computedFormulaForAudit": "C17H28O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NISAHDHKGPWBEM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NISAHDHKGPWBEM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H26O3",
+      "computedFormulaForAudit": "C17H26O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LMYRWZFENFIFIT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LMYRWZFENFIFIT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H9NO2S",
+      "computedFormulaForAudit": "C7H9NO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CXOFVDLJLONNDW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CXOFVDLJLONNDW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H12N2O2",
+      "computedFormulaForAudit": "C15H12N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MVPKIPGHRNIOPT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MVPKIPGHRNIOPT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H9N3",
+      "computedFormulaForAudit": "C8H9N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RDMFHRSPDKWERA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RDMFHRSPDKWERA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H8N2",
+      "computedFormulaForAudit": "C11H8N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PZBQVZFITSVHAW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PZBQVZFITSVHAW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H4ClN3",
+      "computedFormulaForAudit": "C6H4ClN3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OGNJZVNNKBZFRM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OGNJZVNNKBZFRM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H16N2O",
+      "computedFormulaForAudit": "C12H16N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LRUDIIUSNGCQKF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LRUDIIUSNGCQKF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H7N3",
+      "computedFormulaForAudit": "C7H7N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JJGYGPZNTOPXGV-SSTWWWIQSA-N",
+      "nt52": false,
+      "computedInChIKey": "JJGYGPZNTOPXGV-SSTWWWIQSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C19H21NO4",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "VIONGDJUYAYOPU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VIONGDJUYAYOPU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H5F13O3S",
+      "computedFormulaForAudit": "C8H5F13O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DAWYIZBOUQIVNX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DAWYIZBOUQIVNX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19N3O",
+      "computedFormulaForAudit": "C17H19N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FZEYVTFCMJSGMP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FZEYVTFCMJSGMP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H9NO",
+      "computedFormulaForAudit": "C13H9NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MCGSCOLBFJQGHM-SCZZXKLOSA-N",
+      "nt52": false,
+      "computedInChIKey": "MCGSCOLBFJQGHM-SCZZXKLOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C14H18N6O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "WRJPSSPFHGNBMG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WRJPSSPFHGNBMG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H15NO2",
+      "computedFormulaForAudit": "C9H15NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YGCFIWIQZPHFLU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YGCFIWIQZPHFLU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C4H5NO4S",
+      "computedFormulaForAudit": "C4H5NO4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RZVAJINKPMORJF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RZVAJINKPMORJF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H9NO2",
+      "computedFormulaForAudit": "C8H9NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WCXDHFDTOYPNIE-RIYZIHGNSA-N",
+      "nt52": false,
+      "computedInChIKey": "WCXDHFDTOYPNIE-UHFFFAOYSA-N",
+      "structureStatus": "same_connectivity_stereochemistry_review",
+      "sourceFormula": "C10H11ClN4",
+      "computedFormulaForAudit": "C10H11ClN4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VTNQPKFIQCLBDU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VTNQPKFIQCLBDU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H20ClNO2",
+      "computedFormulaForAudit": "C14H20ClNO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H8O4",
+      "computedFormulaForAudit": "C9H8O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DZBUGLKDJFMEHC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DZBUGLKDJFMEHC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H9N",
+      "computedFormulaForAudit": "C13H9N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MKUXAQIIEYXACX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MKUXAQIIEYXACX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H11N5O3",
+      "computedFormulaForAudit": "C8H11N5O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GFFGJBXGBJISGV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GFFGJBXGBJISGV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H5N5",
+      "computedFormulaForAudit": "C5H5N5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OIRDTQYFTABQOQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OIRDTQYFTABQOQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H13N5O4",
+      "computedFormulaForAudit": "C10H13N5O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HXHWSAZORRCQMX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HXHWSAZORRCQMX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H15N3O2S",
+      "computedFormulaForAudit": "C12H15N3O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UXOWGYHJODZGMF-QORCZRPOSA-N",
+      "nt52": false,
+      "computedInChIKey": "UXOWGYHJODZGMF-QORCZRPOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C30H53N3O6",
+      "computedFormulaForAudit": "C30H53N3O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZCVAOQKBXKSDMS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZCVAOQKBXKSDMS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H26O3",
+      "computedFormulaForAudit": "C19H26O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OFCNXPDARWKPPY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OFCNXPDARWKPPY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H4N4O",
+      "computedFormulaForAudit": "C5H4N4O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BPMFPOGUJAAYHL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BPMFPOGUJAAYHL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H8N2",
+      "computedFormulaForAudit": "C11H8N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VREFGVBLTWBCJP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VREFGVBLTWBCJP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H13ClN4",
+      "computedFormulaForAudit": "C17H13ClN4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Al",
+      "computedFormulaForAudit": "Al",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DKNWSYNQZKUICI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DKNWSYNQZKUICI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H17N",
+      "computedFormulaForAudit": "C10H17N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JBDGDEWWOUBZPM-XYPYZODXSA-N",
+      "nt52": false,
+      "computedInChIKey": "JBDGDEWWOUBZPM-UHFFFAOYSA-N",
+      "structureStatus": "same_connectivity_stereochemistry_review",
+      "sourceFormula": "C13H18Br2N2O",
+      "computedFormulaForAudit": "C13H18Br2N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RQVYBGPQFYCBGX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RQVYBGPQFYCBGX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H17N5S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ZHOWHMXTJFZXRB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZHOWHMXTJFZXRB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H16N2O3S",
+      "computedFormulaForAudit": "C10H16N2O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UTSXERRKRAEDOV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UTSXERRKRAEDOV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H46N2O4S",
+      "computedFormulaForAudit": "C22H46N2O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ROBVIMPUHSLWNV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ROBVIMPUHSLWNV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H16N2O2",
+      "computedFormulaForAudit": "C13H16N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RMMXTBMQSGEXHJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RMMXTBMQSGEXHJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H17N3O",
+      "computedFormulaForAudit": "C13H17N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SYAKTDIEAPMBAL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SYAKTDIEAPMBAL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H10N2O",
+      "computedFormulaForAudit": "C9H10N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NTJOBXMMWNYJFB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NTJOBXMMWNYJFB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H27N3O4S",
+      "computedFormulaForAudit": "C17H27N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LLIKIPAUZJTRGB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LLIKIPAUZJTRGB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H27N3O5S",
+      "computedFormulaForAudit": "C17H27N3O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KRMDCWKBEZIMAB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KRMDCWKBEZIMAB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H23N",
+      "computedFormulaForAudit": "C20H23N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LSQZJLSUYDQPKJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LSQZJLSUYDQPKJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H19N3O5S",
+      "computedFormulaForAudit": "C16H19N3O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KWTSXDURSIMDCE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KWTSXDURSIMDCE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H13N",
+      "computedFormulaForAudit": "C9H13N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AVKUERGKIZMTKX-NJBDSQKTSA-N",
+      "nt52": false,
+      "computedInChIKey": "AVKUERGKIZMTKX-NJBDSQKTSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H19N3O4S",
+      "computedFormulaForAudit": "C16H19N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QSQQQURBVYWZKJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QSQQQURBVYWZKJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H14N2",
+      "computedFormulaForAudit": "C11H14N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YBBLVLTVTVSKRW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YBBLVLTVTVSKRW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19N5",
+      "computedFormulaForAudit": "C17H19N5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AEMFNILZOJDQLW-QAGGRKNESA-N",
+      "nt52": false,
+      "computedInChIKey": "AEMFNILZOJDQLW-QAGGRKNESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H26O2",
+      "computedFormulaForAudit": "C19H26O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "As",
+      "computedFormulaForAudit": "As",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GXDALQBWZGODGZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GXDALQBWZGODGZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C28H31FN4O",
+      "computedFormulaForAudit": "C28H31FN4O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H22N2O3",
+      "computedFormulaForAudit": "C14H22N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XUKUURHRXDUEBC-KAYWLYCHSA-N",
+      "nt52": false,
+      "computedInChIKey": "XUKUURHRXDUEBC-KAYWLYCHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C33H35FN2O5",
+      "computedFormulaForAudit": "C33H35FN2O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NFMIMWNQWAWNDW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NFMIMWNQWAWNDW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H15N5O",
+      "computedFormulaForAudit": "C8H15N5O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IVENSCMCQBJAKW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IVENSCMCQBJAKW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H8ClN5",
+      "computedFormulaForAudit": "C5H8ClN5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MBUVEWMHONZEQD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MBUVEWMHONZEQD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C22H24ClN3O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "MQTOSJVFKKJCRP-BICOPXKESA-N",
+      "nt52": false,
+      "computedInChIKey": "MQTOSJVFKKJCRP-BICOPXKESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C38H72N2O12",
+      "computedFormulaForAudit": "C38H72N2O12",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WFDXOXNFNRHQEC-GHRIWEEISA-N",
+      "nt52": false,
+      "computedInChIKey": "WFDXOXNFNRHQEC-GHRIWEEISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H17N3O5",
+      "computedFormulaForAudit": "C22H17N3O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IKCXDZCEWZARFL-FOWTUZBSSA-N",
+      "nt52": false,
+      "computedInChIKey": "IKCXDZCEWZARFL-FOWTUZBSSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H15N3O5",
+      "computedFormulaForAudit": "C21H15N3O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XEGGRYVFLWGFHI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XEGGRYVFLWGFHI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H13NO4",
+      "computedFormulaForAudit": "C11H13NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H12N2O3S",
+      "computedFormulaForAudit": "C10H12N2O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XMWRWTSZNLOZFN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XMWRWTSZNLOZFN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H15N3O6",
+      "computedFormulaForAudit": "C12H15N3O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PXXJHWLDUBFPOL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PXXJHWLDUBFPOL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H8N2",
+      "computedFormulaForAudit": "C7H8N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ULSIYEODSMZIPX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ULSIYEODSMZIPX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H11NO",
+      "computedFormulaForAudit": "C8H11NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OXFGTKPPFSCSMA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OXFGTKPPFSCSMA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15NO2",
+      "computedFormulaForAudit": "C10H15NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KHBQMWCZKVMBLN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KHBQMWCZKVMBLN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H7NO2S",
+      "computedFormulaForAudit": "C6H7NO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SRSXLGNVWSONIS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SRSXLGNVWSONIS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H6O3S",
+      "computedFormulaForAudit": "C6H6O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZIGVUIYVPLQEAL-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "ZIGVUIYVPLQEAL-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C20H33NaO3S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "HFACYLZERDEVSX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HFACYLZERDEVSX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H12N2",
+      "computedFormulaForAudit": "C12H12N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BLFLLBZGZJTVJG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BLFLLBZGZJTVJG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H11NO2",
+      "computedFormulaForAudit": "C9H11NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CYDRXTMLKJDRQH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CYDRXTMLKJDRQH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H38N",
+      "computedFormulaForAudit": "C21H38N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "JBIROUFYLSSYDX-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "JBIROUFYLSSYDX-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H38ClN",
+      "computedFormulaForAudit": "C21H38ClN",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H6O2",
+      "computedFormulaForAudit": "C7H6O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DXGLGDHPHMLXJC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DXGLGDHPHMLXJC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H12O3",
+      "computedFormulaForAudit": "C14H12O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CXVGEDCSTKKODG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CXVGEDCSTKKODG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H12O6S",
+      "computedFormulaForAudit": "C14H12O6S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IIBYAHWJQTYFKB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IIBYAHWJQTYFKB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H20ClNO4",
+      "computedFormulaForAudit": "C19H20ClNO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LKJPYSCBVHEWIU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LKJPYSCBVHEWIU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H14F4N2O4S",
+      "computedFormulaForAudit": "C18H14F4N2O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VVBLNCFGVYUYGU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VVBLNCFGVYUYGU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H20N2O",
+      "computedFormulaForAudit": "C17H20N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VHYCDWMUTMEGQY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VHYCDWMUTMEGQY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H31NO4",
+      "computedFormulaForAudit": "C18H31NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WYEMLYFITZORAB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WYEMLYFITZORAB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H12Cl2N2O",
+      "computedFormulaForAudit": "C18H12Cl2N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GJPICJJJRGTNOD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GJPICJJJRGTNOD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C27H29N5O6S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "SNPPWIUOZRMYNY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SNPPWIUOZRMYNY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H18ClNO",
+      "computedFormulaForAudit": "C13H18ClNO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JRBJSXQPQWSCCF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JRBJSXQPQWSCCF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H16N2O2",
+      "computedFormulaForAudit": "C14H16N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Cd",
+      "computedFormulaForAudit": "Cd",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HTQMVQVXFRQIKW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HTQMVQVXFRQIKW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H20N6O3",
+      "computedFormulaForAudit": "C24H20N6O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GAGWJHPBXLXJQN-UORFTKCHSA-N",
+      "nt52": false,
+      "computedInChIKey": "GAGWJHPBXLXJQN-UORFTKCHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H22FN3O6",
+      "computedFormulaForAudit": "C15H22FN3O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZRWWEEVEIOGMMT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZRWWEEVEIOGMMT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H12N2O2",
+      "computedFormulaForAudit": "C15H12N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TWFZGCMQGLPBSX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "TWFZGCMQGLPBSX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H9N3O2",
+      "computedFormulaForAudit": "C9H9N3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AMRQXHFXNZFDCH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AMRQXHFXNZFDCH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H16N2O3",
+      "computedFormulaForAudit": "C12H16N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GYSSRZJIHXQEHQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GYSSRZJIHXQEHQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H13NO2S",
+      "computedFormulaForAudit": "C12H13NO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VDTNNGKXZGSZIP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VDTNNGKXZGSZIP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H17N3O3S",
+      "computedFormulaForAudit": "C11H17N3O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KEMXXQOFIRIICG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KEMXXQOFIRIICG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H21N3O3",
+      "computedFormulaForAudit": "C13H21N3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QYIYFLOTGYLRGG-GPCCPHFNSA-N",
+      "nt52": false,
+      "computedInChIKey": "QYIYFLOTGYLRGG-GPCCPHFNSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H14ClN3O4S",
+      "computedFormulaForAudit": "C15H14ClN3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RZEKVGVHFLEQIL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RZEKVGVHFLEQIL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H14F3N3O2S",
+      "computedFormulaForAudit": "C17H14F3N3O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IKTHMQYJOWTSJO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IKTHMQYJOWTSJO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H24O",
+      "computedFormulaForAudit": "C17H24O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JOATXPAWOHTVSZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JOATXPAWOHTVSZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H33N3O4",
+      "computedFormulaForAudit": "C20H33N3O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZKLPARSLTMPFCP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZKLPARSLTMPFCP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H25ClN2O3",
+      "computedFormulaForAudit": "C21H25ClN2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IVDOUUOLLFEMJQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IVDOUUOLLFEMJQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H25ClN2O4",
+      "computedFormulaForAudit": "C21H25ClN2O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WIIZWVCIJKGZOK-RKDXNWHRSA-N",
+      "nt52": false,
+      "computedInChIKey": "WIIZWVCIJKGZOK-RKDXNWHRSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H12Cl2N2O5",
+      "computedFormulaForAudit": "C11H12Cl2N2O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WYKYKTKDBLFHCY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WYKYKTKDBLFHCY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H8ClN3O",
+      "computedFormulaForAudit": "C10H8ClN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "CHCl3",
+      "computedFormulaForAudit": "CHCl3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JBMKAUGHUNFTOL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JBMKAUGHUNFTOL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H6ClN3O4S2",
+      "computedFormulaForAudit": "C7H6ClN3O4S2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JXCGFZXSOMJFOA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JXCGFZXSOMJFOA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C10H13ClN2O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H11Cl3NO3PS",
+      "computedFormulaForAudit": "C9H11Cl3NO3PS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JIVPVXMEBJLZRO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JIVPVXMEBJLZRO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C14H11ClN2O4S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "VYZAMTAEIAYCRO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VYZAMTAEIAYCRO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Cr",
+      "computedFormulaForAudit": "Cr",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AQIXAKUUQRKLND-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AQIXAKUUQRKLND-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H16N6S",
+      "computedFormulaForAudit": "C10H16N6S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MYSWGUAQZAJSOK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MYSWGUAQZAJSOK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H18FN3O3",
+      "computedFormulaForAudit": "C17H18FN3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CIFFBTOJCKSRJY-OLQVQODUSA-N",
+      "nt52": false,
+      "computedInChIKey": "CIFFBTOJCKSRJY-OLQVQODUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H9NO2",
+      "computedFormulaForAudit": "C8H9NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WSEQXVZVJXJVFP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WSEQXVZVJXJVFP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H21FN2O",
+      "computedFormulaForAudit": "C20H21FN2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DIOGFDCEWUUSBQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DIOGFDCEWUUSBQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H21FN2O2",
+      "computedFormulaForAudit": "C20H21FN2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AGOYDEPGAOXOCK-KCBOHYOISA-N",
+      "nt52": false,
+      "computedInChIKey": "AGOYDEPGAOXOCK-KCBOHYOISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C38H69NO13",
+      "computedFormulaForAudit": "C38H69NO13",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OWEGWHBOCFMBLP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OWEGWHBOCFMBLP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H17ClN2O2",
+      "computedFormulaForAudit": "C15H17ClN2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KDLRVYVGXIQJDK-NOWPCOIGSA-N",
+      "nt52": false,
+      "computedInChIKey": "KDLRVYVGXIQJDK-NOWPCOIGSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H33ClN2O5S",
+      "computedFormulaForAudit": "C18H33ClN2O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TXCGAZHTZHNUAI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "TXCGAZHTZHNUAI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H11ClO3",
+      "computedFormulaForAudit": "C10H11ClO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GDLIGKIOYRNHDA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GDLIGKIOYRNHDA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H23ClN2",
+      "computedFormulaForAudit": "C19H23ClN2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GKTWGGQPFAXNFI-HNNXBMFYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GKTWGGQPFAXNFI-HNNXBMFYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H16ClNO2S",
+      "computedFormulaForAudit": "C16H16ClNO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DCASRSISIKYPDD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DCASRSISIKYPDD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H14ClNO2S",
+      "computedFormulaForAudit": "C15H14ClNO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VNFPBHJOKIVQEB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VNFPBHJOKIVQEB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H17ClN2",
+      "computedFormulaForAudit": "C22H17ClN2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QZUDBNBUXVUHMW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QZUDBNBUXVUHMW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H19ClN4",
+      "computedFormulaForAudit": "C18H19ClN4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Co",
+      "computedFormulaForAudit": "Co",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H21NO4",
+      "computedFormulaForAudit": "C17H21NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OROGSEYTTFOCAN-DNJOTXNNSA-N",
+      "nt52": false,
+      "computedInChIKey": "OROGSEYTTFOCAN-DNJOTXNNSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H21NO3",
+      "computedFormulaForAudit": "C18H21NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Cu",
+      "computedFormulaForAudit": "Cu",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DDRJAANPRJIHGJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DDRJAANPRJIHGJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C4H7N3O",
+      "computedFormulaForAudit": "C4H7N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HDHLIWCXDDZUFH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HDHLIWCXDDZUFH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H19N5S",
+      "computedFormulaForAudit": "C11H19N5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PAFZNILMFXTMIY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PAFZNILMFXTMIY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H13N",
+      "computedFormulaForAudit": "C6H13N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CMSMOCZEIVJLDB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CMSMOCZEIVJLDB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H15Cl2N2O2P",
+      "computedFormulaForAudit": "C7H15Cl2N2O2P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KAATUXNTWXVJKI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KAATUXNTWXVJKI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C22H19Cl2NO3",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "UFNOUKDBUJZYDE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UFNOUKDBUJZYDE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H18ClN3O",
+      "computedFormulaForAudit": "C15H18ClN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HAORKNGNJCEJBX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HAORKNGNJCEJBX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H15N3",
+      "computedFormulaForAudit": "C14H15N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LVQDKIWDGQRHTE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LVQDKIWDGQRHTE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H10N6",
+      "computedFormulaForAudit": "C6H10N6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UHDGCWIWMRVCDJ-CCXZUQQUSA-N",
+      "nt52": false,
+      "computedInChIKey": "UHDGCWIWMRVCDJ-CCXZUQQUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H13N3O5",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "WLOBUUJURNEQCL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WLOBUUJURNEQCL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H26N2O2",
+      "computedFormulaForAudit": "C17H26N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZQSIJRDFPHDXIC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZQSIJRDFPHDXIC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H10O4",
+      "computedFormulaForAudit": "C15H10O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CJBJHOAVZSMMDJ-HEXNFIEUSA-N",
+      "nt52": false,
+      "computedInChIKey": "CJBJHOAVZSMMDJ-HEXNFIEUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C27H37N3O7S",
+      "computedFormulaForAudit": "C27H37N3O7S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MMOXZBCLCQITDF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MMOXZBCLCQITDF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H17NO",
+      "computedFormulaForAudit": "C12H17NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BJQHLKABXJIVAM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BJQHLKABXJIVAM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H38O4",
+      "computedFormulaForAudit": "C24H38O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZFQMTVNLDNXRNQ-UHFFFAOYSA-O",
+      "nt52": false,
+      "computedInChIKey": "ZFQMTVNLDNXRNQ-UHFFFAOYSA-O",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H29N2O",
+      "computedFormulaForAudit": "C21H29N2O+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "LMKQNTMFZLAJDV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LMKQNTMFZLAJDV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H12ClN5",
+      "computedFormulaForAudit": "C7H12ClN5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JAUOIFJMECXRGI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JAUOIFJMECXRGI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H19ClN2",
+      "computedFormulaForAudit": "C19H19ClN2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UEQZFAGVRGWPDK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UEQZFAGVRGWPDK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H11ClN4",
+      "computedFormulaForAudit": "C9H11ClN4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JYFHYPJRHGVZDY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JYFHYPJRHGVZDY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H19O4P",
+      "computedFormulaForAudit": "C8H19O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JGFDZZLUDWMUQH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JGFDZZLUDWMUQH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H48N",
+      "computedFormulaForAudit": "C22H48N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "AAOVKJBEBIDNHE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AAOVKJBEBIDNHE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H13ClN2O",
+      "computedFormulaForAudit": "C16H13ClN2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FHIVAFMUCKRCQO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FHIVAFMUCKRCQO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H21N2O3PS",
+      "computedFormulaForAudit": "C12H21N2O3PS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DOIRQSBPFJWKBE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H22O4",
+      "computedFormulaForAudit": "C16H22O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MZHCENGPTKEIGP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MZHCENGPTKEIGP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H8Cl2O3",
+      "computedFormulaForAudit": "C9H8Cl2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DCOPUUMXTXDBNB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DCOPUUMXTXDBNB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H11Cl2NO2",
+      "computedFormulaForAudit": "C14H11Cl2NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YFAGHNZHGGCZAX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YFAGHNZHGGCZAX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H17Cl2N3O5S",
+      "computedFormulaForAudit": "C19H17Cl2N3O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VOWAEIGWURALJQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VOWAEIGWURALJQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H26O4",
+      "computedFormulaForAudit": "C20H26O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QPSVFNQMURAADJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QPSVFNQMURAADJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H26O7S",
+      "computedFormulaForAudit": "C16H26O7S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SBZXBUIDTXKZTM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SBZXBUIDTXKZTM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H14O3",
+      "computedFormulaForAudit": "C6H14O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XXEPPPIWZFICOJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XXEPPPIWZFICOJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H19NO",
+      "computedFormulaForAudit": "C13H19NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BQYJATMQXGBDHF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BQYJATMQXGBDHF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H17Cl2N3O3",
+      "computedFormulaForAudit": "C19H17Cl2N3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RBOXVHNMENFORY-DNJOTXNNSA-N",
+      "nt52": false,
+      "computedInChIKey": "RBOXVHNMENFORY-DNJOTXNNSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H23NO3",
+      "computedFormulaForAudit": "C18H23NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZNKNVJGSYJFDHT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZNKNVJGSYJFDHT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H13NO4S",
+      "computedFormulaForAudit": "C10H13NO4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RVSCDWJKJDBFRS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RVSCDWJKJDBFRS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H19NO5S",
+      "computedFormulaForAudit": "C13H19NO5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MHGMSAFPNAKIRZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MHGMSAFPNAKIRZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H17NO4",
+      "computedFormulaForAudit": "C13H17NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JLYFCTQDENRSOL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JLYFCTQDENRSOL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H18ClNO2S",
+      "computedFormulaForAudit": "C12H18ClNO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YMYKMSAZEZQEER-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YMYKMSAZEZQEER-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H19NO5S2",
+      "computedFormulaForAudit": "C12H19NO5S2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MCWXGJITAZMZEV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MCWXGJITAZMZEV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H12NO3PS2",
+      "computedFormulaForAudit": "C5H12NO3PS2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NIQCNGHVCWTJSM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NIQCNGHVCWTJSM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C10H10O4",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "WXUZAHCNPWONDH-DYTRJAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WXUZAHCNPWONDH-DYTRJAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H22N2O3",
+      "computedFormulaForAudit": "C19H22N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HORIEOQXBKUKGQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HORIEOQXBKUKGQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C26H48O4",
+      "computedFormulaForAudit": "C26H48O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OHDICGSRVLBVLC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OHDICGSRVLBVLC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H17NO3",
+      "computedFormulaForAudit": "C11H17NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZZVUWRFHKOJYTH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZZVUWRFHKOJYTH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H21NO",
+      "computedFormulaForAudit": "C17H21NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ASMQGLCHMVWBQR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ASMQGLCHMVWBQR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H11O4P",
+      "computedFormulaForAudit": "C12H11O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UVTNFZQICZKOEM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UVTNFZQICZKOEM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C21H29N3O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H10Cl2N2O",
+      "computedFormulaForAudit": "C9H10Cl2N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZTVIKZXZYLEVOL-MCOXGKPRSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZTVIKZXZYLEVOL-DGKWVBSXSA-N",
+      "structureStatus": "same_connectivity_stereochemistry_review",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C16H21NO3",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "MMBILEWCGWTAOV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MMBILEWCGWTAOV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H31NO2",
+      "computedFormulaForAudit": "C15H31NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WBIQQQGBSDOWNP-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "WBIQQQGBSDOWNP-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C18H29O3S-",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ZEUITGRIYCTCEM-KRWDZBQOSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZEUITGRIYCTCEM-KRWDZBQOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H19NOS",
+      "computedFormulaForAudit": "C18H19NOS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LEZWWPYKPKIXLL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LEZWWPYKPKIXLL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C18H15Cl3N2O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "AJRJPORIQGYFMT-RMOCHZDMSA-N",
+      "nt52": false,
+      "computedInChIKey": "AJRJPORIQGYFMT-RMOCHZDMSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H23N",
+      "computedFormulaForAudit": "C20H23N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XPOQHMRABVBWPR-ZDUSSCGKSA-N",
+      "nt52": false,
+      "computedInChIKey": "XPOQHMRABVBWPR-ZDUSSCGKSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H9ClF3NO2",
+      "computedFormulaForAudit": "C14H9ClF3NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GBXSMTUPTTWBMN-XIRDDKMYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GBXSMTUPTTWBMN-XIRDDKMYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H28N2O5",
+      "computedFormulaForAudit": "C20H28N2O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GXEKYRXVRROBEV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GXEKYRXVRROBEV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H10O5",
+      "computedFormulaForAudit": "C8H10O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UVCJGUGAGLDPAA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UVCJGUGAGLDPAA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H10N2O3S",
+      "computedFormulaForAudit": "C13H10N2O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HEOCBCNFKCOKBX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HEOCBCNFKCOKBX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H22O",
+      "computedFormulaForAudit": "C18H22O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KWGRBVOPPLSCSI-WPRPVWTQSA-N",
+      "nt52": false,
+      "computedInChIKey": "KWGRBVOPPLSCSI-WPRPVWTQSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15NO",
+      "computedFormulaForAudit": "C10H15NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JUKPWJGBANNWMW-VWBFHTRKSA-N",
+      "nt52": false,
+      "computedInChIKey": "JUKPWJGBANNWMW-VWBFHTRKSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H30O6",
+      "computedFormulaForAudit": "C24H30O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OROAFUQRIXKEMV-LDADJPATSA-N",
+      "nt52": false,
+      "computedInChIKey": "OROAFUQRIXKEMV-LDADJPATSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C23H24N2O4S",
+      "computedFormulaForAudit": "C23H24N2O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ULGZDMOVFRHVEP-RWJQBGPGSA-N",
+      "nt52": false,
+      "computedInChIKey": "ULGZDMOVFRHVEP-RWJQBGPGSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C37H67NO13",
+      "computedFormulaForAudit": "C37H67NO13",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "METKIMKYRPQLGS-LBPRGKRZSA-N",
+      "nt52": false,
+      "computedInChIKey": "METKIMKYRPQLGS-LBPRGKRZSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H22N2O3",
+      "computedFormulaForAudit": "C14H22N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AQNDDEOPVVGCPG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AQNDDEOPVVGCPG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H25NO4",
+      "computedFormulaForAudit": "C16H25NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PROQIPRRNZUXQM-ZXXIGWHRSA-N",
+      "nt52": false,
+      "computedInChIKey": "PROQIPRRNZUXQM-ZXXIGWHRSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H24O3",
+      "computedFormulaForAudit": "C18H24O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DNXHEGUUPJUMQT-CBZIJGRNSA-N",
+      "nt52": false,
+      "computedInChIKey": "DNXHEGUUPJUMQT-CBZIJGRNSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H22O2",
+      "computedFormulaForAudit": "C18H22O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AEUTYOVWOVBAKS-UWVGGRQHSA-N",
+      "nt52": false,
+      "computedInChIKey": "AEUTYOVWOVBAKS-UWVGGRQHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H24N2O2",
+      "computedFormulaForAudit": "C10H24N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FVUGZKDGWGKCFE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FVUGZKDGWGKCFE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H26O",
+      "computedFormulaForAudit": "C16H26O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WXCMHFPAUCOJIG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WXCMHFPAUCOJIG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H18N2O5",
+      "computedFormulaForAudit": "C14H18N2O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IRCMYGHHKLLGHV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IRCMYGHHKLLGHV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H18O5S",
+      "computedFormulaForAudit": "C13H18O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KIWBPDUYBMNFTB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KIWBPDUYBMNFTB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C2H6O4S",
+      "computedFormulaForAudit": "C2H6O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SQVIAVUSQAWMKL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SQVIAVUSQAWMKL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15NO2",
+      "computedFormulaForAudit": "C10H15NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YMTINGFKWWXKFG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YMTINGFKWWXKFG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H21ClO4",
+      "computedFormulaForAudit": "C20H21ClO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MQOBSOSZFYZQOK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MQOBSOSZFYZQOK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H15ClO4",
+      "computedFormulaForAudit": "C17H15ClO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LSLYOANBFKQKPT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LSLYOANBFKQKPT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H21NO4",
+      "computedFormulaForAudit": "C17H21NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HJUFTIJOISQSKQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HJUFTIJOISQSKQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO4",
+      "computedFormulaForAudit": "C17H19NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MGNFYQILYYYUBS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MGNFYQILYYYUBS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C19H31N",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "XXOYNJXVWVNOOJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XXOYNJXVWVNOOJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H12N2O",
+      "computedFormulaForAudit": "C9H12N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RWTNPBWLLIMQHL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RWTNPBWLLIMQHL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C32H39NO4",
+      "computedFormulaForAudit": "C32H39NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H4Cl2F6N4OS",
+      "computedFormulaForAudit": "C12H4Cl2F6N4OS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FQXWEKADCSXYOC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FQXWEKADCSXYOC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H4Cl2F6N4S",
+      "computedFormulaForAudit": "C12H4Cl2F6N4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JWKXVHLIRTVXLD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JWKXVHLIRTVXLD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H4Cl2F6N4",
+      "computedFormulaForAudit": "C12H4Cl2F6N4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DJBNUMBKLMJRSA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DJBNUMBKLMJRSA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H20F6N2O3",
+      "computedFormulaForAudit": "C17H20F6N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RFHAOTPXVQNOHP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RFHAOTPXVQNOHP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H12F2N6O",
+      "computedFormulaForAudit": "C13H12F2N6O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MUJOIMFVNIBMKC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MUJOIMFVNIBMKC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H6F2N2O2",
+      "computedFormulaForAudit": "C12H6F2N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IANUJLZYFUDJIH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IANUJLZYFUDJIH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H13F4N3O2S",
+      "computedFormulaForAudit": "C14H13F4N3O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LPEPZBJOKDYZAD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LPEPZBJOKDYZAD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H10F3NO2",
+      "computedFormulaForAudit": "C14H10F3NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RTHCYVBBDHJXIQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RTHCYVBBDHJXIQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H18F3NO",
+      "computedFormulaForAudit": "C17H18F3NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YLRFCQOZQXIBAB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YLRFCQOZQXIBAB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H29FO3",
+      "computedFormulaForAudit": "C20H29FO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FQKUGOMFVDPBIZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FQKUGOMFVDPBIZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H15F2N3Si",
+      "computedFormulaForAudit": "C16H15F2N3Si",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MKXKFYHWDHIYRV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MKXKFYHWDHIYRV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H11F3N2O3",
+      "computedFormulaForAudit": "C11H11F3N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CJOFXWAVKWHTFT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CJOFXWAVKWHTFT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H21F3N2O2",
+      "computedFormulaForAudit": "C15H21F3N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NXFQHRVNIOXGAQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NXFQHRVNIOXGAQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C8H6N4O5",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ZZUFCTLCJUWOSV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZZUFCTLCJUWOSV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H11ClN2O5S",
+      "computedFormulaForAudit": "C12H11ClN2O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JAWPQJDOQPSNIQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JAWPQJDOQPSNIQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H15NO",
+      "computedFormulaForAudit": "C9H15NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ASUTZQLVASHGKV-JDFRZJQESA-N",
+      "nt52": false,
+      "computedInChIKey": "ASUTZQLVASHGKV-JDFRZJQESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H21NO3",
+      "computedFormulaForAudit": "C17H21NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PGMHPYRIXBRRQD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PGMHPYRIXBRRQD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H24O2",
+      "computedFormulaForAudit": "C18H24O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SJZRECIVHVDYJC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SJZRECIVHVDYJC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C4H8O3",
+      "computedFormulaForAudit": "C4H8O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HEMJJKBWTPKOJG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HEMJJKBWTPKOJG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H22O3",
+      "computedFormulaForAudit": "C15H22O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TZBJGXHYKVUXJN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "TZBJGXHYKVUXJN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H10O5",
+      "computedFormulaForAudit": "C15H10O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WIGIZIANZCJQQY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WIGIZIANZCJQQY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H34N4O5S",
+      "computedFormulaForAudit": "C24H34N4O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZNNLBTZKUZBEKO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZNNLBTZKUZBEKO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C23H28ClN3O5S",
+      "computedFormulaForAudit": "C23H28ClN3O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H16N2O8",
+      "computedFormulaForAudit": "C10H16N2O8",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XDDAORKBJWWYJS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XDDAORKBJWWYJS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C3H8NO5P",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "HSRJKNPTNIJEKV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HSRJKNPTNIJEKV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H14O4",
+      "computedFormulaForAudit": "C10H14O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SQSPRWMERUQXNE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SQSPRWMERUQXNE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C2H6N4O",
+      "computedFormulaForAudit": "C2H6N4O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PSFDQSOCUJVVGF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PSFDQSOCUJVVGF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H10N2",
+      "computedFormulaForAudit": "C12H10N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BXNJHAXVSOCGBA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BXNJHAXVSOCGBA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H12N2O",
+      "computedFormulaForAudit": "C13H12N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CAWXEEYDBZRFPE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CAWXEEYDBZRFPE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C12H20N4O2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "NTYJJOPFIAHURM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NTYJJOPFIAHURM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H9N3",
+      "computedFormulaForAudit": "C5H9N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JZUFKLXOESDKRF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JZUFKLXOESDKRF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H8ClN3O4S2",
+      "computedFormulaForAudit": "C7H8ClN3O4S2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WVLOADHCBXTIJK-YNHQPCIGSA-N",
+      "nt52": false,
+      "computedInChIKey": "WVLOADHCBXTIJK-YNHQPCIGSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO3",
+      "computedFormulaForAudit": "C17H19NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XOKCJXZZNAUIQN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XOKCJXZZNAUIQN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H12N2O2",
+      "computedFormulaForAudit": "C10H12N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QLHULAHOXSSASE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QLHULAHOXSSASE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H23NO3",
+      "computedFormulaForAudit": "C12H23NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HOMGKSMUEGBAAB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HOMGKSMUEGBAAB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C7H15Cl2N2O2P",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "PZBPKYOVPCNPJY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PZBPKYOVPCNPJY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H14Cl2N2O",
+      "computedFormulaForAudit": "C14H14Cl2N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CLQMBPJKHLGMQK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CLQMBPJKHLGMQK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H15N3O3",
+      "computedFormulaForAudit": "C13H15N3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ADWTYURAFSWNSU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ADWTYURAFSWNSU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H10ClN3O",
+      "computedFormulaForAudit": "C9H10ClN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LCGTWRLJTMHIQZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LCGTWRLJTMHIQZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H11N",
+      "computedFormulaForAudit": "C14H11N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BCGWQEUPMDMJNV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BCGWQEUPMDMJNV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C19H24N2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "SEOVTRFCIGRIMH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SEOVTRFCIGRIMH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H9NO2",
+      "computedFormulaForAudit": "C10H9NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CGIGDMFJXJATDK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CGIGDMFJXJATDK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H16ClNO4",
+      "computedFormulaForAudit": "C19H16ClNO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NTHXOOBQLCIOLC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NTHXOOBQLCIOLC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H26I3N3O9",
+      "computedFormulaForAudit": "C19H26I3N3O9",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NJKDOADNQSYQEV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NJKDOADNQSYQEV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H22I3N3O8",
+      "computedFormulaForAudit": "C17H22I3N3O8",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XQZXYNRDCRIARQ-LURJTMIESA-N",
+      "nt52": false,
+      "computedInChIKey": "XQZXYNRDCRIARQ-LURJTMIESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H22I3N3O8",
+      "computedFormulaForAudit": "C17H22I3N3O8",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DGAIEPBNLOQYER-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DGAIEPBNLOQYER-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H24I3N3O8",
+      "computedFormulaForAudit": "C18H24I3N3O8",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YOSHYTLCDANDAN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YOSHYTLCDANDAN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C25H28N6O",
+      "computedFormulaForAudit": "C25H28N6O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Fe",
+      "computedFormulaForAudit": "Fe",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RNLHGQLZWXBQNY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RNLHGQLZWXBQNY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H22N2",
+      "computedFormulaForAudit": "C10H22N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H18N2O",
+      "computedFormulaForAudit": "C12H18N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PMHURSZHKKJGBM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PMHURSZHKKJGBM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H24N2O4",
+      "computedFormulaForAudit": "C18H24N2O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BMUKKTUHUDJSNZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BMUKKTUHUDJSNZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H23NO3",
+      "computedFormulaForAudit": "C18H23NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BZFDQRQHYLPNHW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BZFDQRQHYLPNHW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C25H24N2O3",
+      "computedFormulaForAudit": "C25H24N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YQEZLKZALYSWHR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YQEZLKZALYSWHR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H16ClNO",
+      "computedFormulaForAudit": "C13H16ClNO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DKYWVDODHFEZIM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DKYWVDODHFEZIM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H14O3",
+      "computedFormulaForAudit": "C16H14O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SGUAFYQXFOLMHL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SGUAFYQXFOLMHL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H24N2O3",
+      "computedFormulaForAudit": "C19H24N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VPPJLAIAVCUEMN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VPPJLAIAVCUEMN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H18N2O3",
+      "computedFormulaForAudit": "C13H18N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JTEGQNOMFQHVDC-NKWVEPMBSA-N",
+      "nt52": false,
+      "computedInChIKey": "JTEGQNOMFQHVDC-NKWVEPMBSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C8H11N3O3S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "PYZRQGJRPPTADH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PYZRQGJRPPTADH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H7Cl2N5",
+      "computedFormulaForAudit": "C9H7Cl2N5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WABPQHHGFIMREM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WABPQHHGFIMREM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Pb",
+      "computedFormulaForAudit": "Pb",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZTMKADLOSYKWCA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZTMKADLOSYKWCA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H18N2O2",
+      "computedFormulaForAudit": "C13H18N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HPHUVLMMVZITSG-ZCFIWIBFSA-N",
+      "nt52": false,
+      "computedInChIKey": "HPHUVLMMVZITSG-ZCFIWIBFSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H14N2O2",
+      "computedFormulaForAudit": "C8H14N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GSDSWSVVBLHKDQ-JTQLQIEISA-N",
+      "nt52": false,
+      "computedInChIKey": "GSDSWSVVBLHKDQ-JTQLQIEISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H20FN3O4",
+      "computedFormulaForAudit": "C18H20FN3O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SVAAQXJOGYYYEY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SVAAQXJOGYYYEY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H14N2O3",
+      "computedFormulaForAudit": "C15H14N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H22N2O",
+      "computedFormulaForAudit": "C14H22N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YDVXPJXUHRROBA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YDVXPJXUHRROBA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H22N2O2",
+      "computedFormulaForAudit": "C14H22N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OJMMVQQUTAEWLP-KIDUDLJLSA-N",
+      "nt52": false,
+      "computedInChIKey": "OJMMVQQUTAEWLP-KIDUDLJLSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H34N2O6S",
+      "computedFormulaForAudit": "C18H34N2O6S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TYZROVQLWOKYKF-ZDUSSCGKSA-N",
+      "nt52": false,
+      "computedInChIKey": "TYZROVQLWOKYKF-ZDUSSCGKSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H20FN3O4",
+      "computedFormulaForAudit": "C16H20FN3O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RDOIQAHITMMDAJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RDOIQAHITMMDAJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C29H33ClN2O2",
+      "computedFormulaForAudit": "C29H33ClN2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DIWRORZWFLOCLC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DIWRORZWFLOCLC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H10Cl2N2O2",
+      "computedFormulaForAudit": "C15H10Cl2N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PSIFNNKUMBGKDQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PSIFNNKUMBGKDQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H23ClN6O",
+      "computedFormulaForAudit": "C22H23ClN6O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PCZOHLXUXFIOCF-BXMDZJJMSA-N",
+      "nt52": false,
+      "computedInChIKey": "PCZOHLXUXFIOCF-BXMDZJJMSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C24H36O5",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "QSLMDECMDJKHMQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QSLMDECMDJKHMQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H23N",
+      "computedFormulaForAudit": "C20H23N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WHKUVVPPKQRRBV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WHKUVVPPKQRRBV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H9ClO3",
+      "computedFormulaForAudit": "C9H9ClO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WNTGYJSOUMFZEP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WNTGYJSOUMFZEP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H11ClO3",
+      "computedFormulaForAudit": "C10H11ClO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OPXLLQIJSORQAM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OPXLLQIJSORQAM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H13N3O3",
+      "computedFormulaForAudit": "C16H13N3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VYVKHNNGDFVQGA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VYVKHNNGDFVQGA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C25H35NO5",
+      "computedFormulaForAudit": "C25H35NO5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SBDNJUWAMKYJOX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SBDNJUWAMKYJOX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H11Cl2NO2",
+      "computedFormulaForAudit": "C14H11Cl2NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YLCXGBZIZBEVPZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YLCXGBZIZBEVPZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H15ClN2",
+      "computedFormulaForAudit": "C16H15ClN2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HYYBABOKPJLUIN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HYYBABOKPJLUIN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H15NO2",
+      "computedFormulaForAudit": "C15H15NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DVCCCQNKIYNAKB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DVCCCQNKIYNAKB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C11H11N5",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "JDSHMPZPIAZGSV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JDSHMPZPIAZGSV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C3H6N6",
+      "computedFormulaForAudit": "C3H6N6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BUGYDGFZZOZRHP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BUGYDGFZZOZRHP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H21N",
+      "computedFormulaForAudit": "C12H21N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YELGFTGWJGBAQU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YELGFTGWJGBAQU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H15NO",
+      "computedFormulaForAudit": "C11H15NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NNCAWEWCFVZOGF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NNCAWEWCFVZOGF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H16N",
+      "computedFormulaForAudit": "C7H16N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Hg",
+      "computedFormulaForAudit": "Hg",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZQEIXNIJLIKNTD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZQEIXNIJLIKNTD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H21NO4",
+      "computedFormulaForAudit": "C15H21NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VHCNQEUWZYOAEV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VHCNQEUWZYOAEV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H10N4O",
+      "computedFormulaForAudit": "C10H10N4O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "STEPQTYSZVCJPV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "STEPQTYSZVCJPV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H16ClN3O",
+      "computedFormulaForAudit": "C14H16ClN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GFGYMDAFJMPNCC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GFGYMDAFJMPNCC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H19N3O2S",
+      "computedFormulaForAudit": "C15H19N3O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DYCHUHSHQIYFAI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DYCHUHSHQIYFAI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C16H19N3O4S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "DFJUHFNLKWOTIZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DFJUHFNLKWOTIZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H13N3O5",
+      "computedFormulaForAudit": "C14H13N3O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IPVCSECPEVHQOV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IPVCSECPEVHQOV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H17N3O4S",
+      "computedFormulaForAudit": "C14H17N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PHMHHVKFXZNTKU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PHMHHVKFXZNTKU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C14H15N3O3",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "XZWYZXLIPXDOLR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XZWYZXLIPXDOLR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C4H11N5",
+      "computedFormulaForAudit": "C4H11N5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "USSIQXCVUWKGNF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "USSIQXCVUWKGNF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H27NO",
+      "computedFormulaForAudit": "C21H27NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MYWUZJCMWCOHBA-VIFPVBQESA-N",
+      "nt52": false,
+      "computedInChIKey": "MYWUZJCMWCOHBA-VIFPVBQESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15N",
+      "computedFormulaForAudit": "C10H15N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZHBBDQFXEDCQFI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZHBBDQFXEDCQFI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H12O2S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "GNXFOGHNGIVQEH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GNXFOGHNGIVQEH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H15NO5",
+      "computedFormulaForAudit": "C11H15NO5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NFGXHKASABOEEW-LDRANXPESA-N",
+      "nt52": false,
+      "computedInChIKey": "NFGXHKASABOEEW-LDRANXPESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H34O3",
+      "computedFormulaForAudit": "C19H34O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FBOZXECLQNJBKD-ZDUSSCGKSA-N",
+      "nt52": false,
+      "computedInChIKey": "FBOZXECLQNJBKD-ZDUSSCGKSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H22N8O5",
+      "computedFormulaForAudit": "C20H22N8O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OEHAYUOVELTAPG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OEHAYUOVELTAPG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C11H17NO",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "XNSGCNYTNLWRKM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XNSGCNYTNLWRKM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H6ClN3O",
+      "computedFormulaForAudit": "C5H6ClN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VKEQBMCRQDSRET-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VKEQBMCRQDSRET-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H13NO3",
+      "computedFormulaForAudit": "C11H13NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DKMFBWQBDIGMHM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DKMFBWQBDIGMHM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H22FNO",
+      "computedFormulaForAudit": "C16H22FNO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WLFDQEVORAMCIM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WLFDQEVORAMCIM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H11BrN2O2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "TTWJBBZEZQICBI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "TTWJBBZEZQICBI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H22ClN3O2",
+      "computedFormulaForAudit": "C14H22ClN3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WVQBLGZPHOPPFO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WVQBLGZPHOPPFO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H22ClNO2",
+      "computedFormulaForAudit": "C15H22ClNO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CIGKZVUEZXGYSV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CIGKZVUEZXGYSV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H23NO5S",
+      "computedFormulaForAudit": "C15H23NO5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WOXWIWNBIJDJHI-JTQLQIEISA-N",
+      "nt52": false,
+      "computedInChIKey": "WOXWIWNBIJDJHI-JTQLQIEISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H19NO6S",
+      "computedFormulaForAudit": "C14H19NO6S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LNOOSYCKMKZOJB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LNOOSYCKMKZOJB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H21NO4",
+      "computedFormulaForAudit": "C15H21NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IUBSYMUCCVWXPE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IUBSYMUCCVWXPE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H25NO3",
+      "computedFormulaForAudit": "C15H25NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PUQIRTNPJRFRCZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PUQIRTNPJRFRCZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H21NO4",
+      "computedFormulaForAudit": "C14H21NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FOXFZRUHNHCZPX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FOXFZRUHNHCZPX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H14N4OS",
+      "computedFormulaForAudit": "C8H14N4OS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H9N3O3",
+      "computedFormulaForAudit": "C6H9N3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GJJFMKBJSRMPLA-HIFRSBDPSA-N",
+      "nt52": false,
+      "computedInChIKey": "GJJFMKBJSRMPLA-HIFRSBDPSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H22N2O",
+      "computedFormulaForAudit": "C15H22N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RONZAEMNMFQXRA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RONZAEMNMFQXRA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19N3",
+      "computedFormulaForAudit": "C17H19N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YHXISWVBGDMDLQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YHXISWVBGDMDLQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H17ClN2O2",
+      "computedFormulaForAudit": "C13H17ClN2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QVCMHGGNRFRMAD-XFGHUUIASA-N",
+      "nt52": false,
+      "computedInChIKey": "QVCMHGGNRFRMAD-XFGHUUIASA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H23NO6",
+      "computedFormulaForAudit": "C16H23NO6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BQJCRHHNABKAKU-KBQPJGBKSA-N",
+      "nt52": false,
+      "computedInChIKey": "BQJCRHHNABKAKU-KBQPJGBKSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO3",
+      "computedFormulaForAudit": "C17H19NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WPNJAUFVNXKLIM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WPNJAUFVNXKLIM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H12ClN5O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "HZJKXKUJVSEEFU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HZJKXKUJVSEEFU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H17ClN4",
+      "computedFormulaForAudit": "C15H17ClN4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HPNSFSBZBAHARI-RUDMXATFSA-N",
+      "nt52": false,
+      "computedInChIKey": "HPNSFSBZBAHARI-RUDMXATFSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H20O6",
+      "computedFormulaForAudit": "C17H20O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UDCDOJQOXWCCSD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UDCDOJQOXWCCSD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C9H14N2O2S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "JLTDJTHDQAWBAV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JLTDJTHDQAWBAV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H11N",
+      "computedFormulaForAudit": "C8H11N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SYELZBGXAIXKHU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SYELZBGXAIXKHU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H31NO",
+      "computedFormulaForAudit": "C14H31NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VHYFNPMBLIVWCW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VHYFNPMBLIVWCW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H10N2",
+      "computedFormulaForAudit": "C7H10N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MMSWXJSQCAEDLK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MMSWXJSQCAEDLK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H23NO2",
+      "computedFormulaForAudit": "C15H23NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "REORAZISQPSCHR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "REORAZISQPSCHR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H22N2O",
+      "computedFormulaForAudit": "C15H22N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IPRJXAGUEGOFGG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IPRJXAGUEGOFGG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15NO2S",
+      "computedFormulaForAudit": "C10H15NO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YBCNXCRZPWQOBR-WVHCHWADSA-N",
+      "nt52": false,
+      "computedInChIKey": "YBCNXCRZPWQOBR-MWGADRMYSA-N",
+      "structureStatus": "same_connectivity_stereochemistry_review",
+      "sourceFormula": "C21H30NO4",
+      "computedFormulaForAudit": "C21H30NO4+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "UPWPIFMHSFSVLE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UPWPIFMHSFSVLE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H16N2S",
+      "computedFormulaForAudit": "C13H16N2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PQQINTFVECNXLC-GXFFZTMASA-N",
+      "nt52": false,
+      "computedInChIKey": "PQQINTFVECNXLC-GXFFZTMASA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C13H21NO",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "VUMQHLSPUAFKKK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "VUMQHLSPUAFKKK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H23NO2",
+      "computedFormulaForAudit": "C15H23NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CIJTVUQEURKBDL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CIJTVUQEURKBDL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C37H67NO13",
+      "computedFormulaForAudit": "C37H67NO13",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JNNOSTQEZICQQP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JNNOSTQEZICQQP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C17H17ClN4",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "YAGBSNMZQKEFCO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YAGBSNMZQKEFCO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H17N",
+      "computedFormulaForAudit": "C11H17N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NATWUQFQFMZVMT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NATWUQFQFMZVMT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H13NO2S",
+      "computedFormulaForAudit": "C9H13NO2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OMEMQVZNTDHENJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OMEMQVZNTDHENJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H29N",
+      "computedFormulaForAudit": "C13H29N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GXPIUNZCALHVBA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GXPIUNZCALHVBA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H13N3O4S",
+      "computedFormulaForAudit": "C12H13N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CMWTZPSULFXXJA-VIFPVBQESA-N",
+      "nt52": false,
+      "computedInChIKey": "CMWTZPSULFXXJA-VIFPVBQESA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H14O3",
+      "computedFormulaForAudit": "C14H14O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Ni",
+      "computedFormulaForAudit": "Ni",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RTCOGUMHFFWOJV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RTCOGUMHFFWOJV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H18N6O6S",
+      "computedFormulaForAudit": "C15H18N6O6S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DFPAKSUCGFBDDF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DFPAKSUCGFBDDF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H6N2O",
+      "computedFormulaForAudit": "C6H6N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SNICXCGAKADSCV-JTQLQIEISA-N",
+      "nt52": false,
+      "computedInChIKey": "SNICXCGAKADSCV-JTQLQIEISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H14N2",
+      "computedFormulaForAudit": "C10H14N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DANUORFCFTYTSZ-SJSJOXFOSA-N",
+      "nt52": false,
+      "computedInChIKey": "DANUORFCFTYTSZ-SJSJOXFOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C40H68O11",
+      "computedFormulaForAudit": "C40H68O11",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FAIIFDPAEUKBEP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FAIIFDPAEUKBEP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H19N3O6",
+      "computedFormulaForAudit": "C19H19N3O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PVHUJELLJLJGLN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PVHUJELLJLJGLN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H20N2O6",
+      "computedFormulaForAudit": "C18H20N2O6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MGFYIUFZLHCRTH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MGFYIUFZLHCRTH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H9NO6",
+      "computedFormulaForAudit": "C6H9NO6",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JILCEWWZTBBOFS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JILCEWWZTBBOFS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C12H15N3O",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "YOYLLRBMGQRFTN-VPNSVMOZSA-N",
+      "nt52": false,
+      "computedInChIKey": "YOYLLRBMGQRFTN-VPNSVMOZSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C25H35NO4",
+      "computedFormulaForAudit": "C25H35NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HKOIXWVRNLGFOR-KOFBORESSA-N",
+      "nt52": false,
+      "computedInChIKey": "HKOIXWVRNLGFOR-KOFBORESSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO3",
+      "computedFormulaForAudit": "C17H19NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AKPLHCDWDRPJGD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AKPLHCDWDRPJGD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H11ClN2O",
+      "computedFormulaForAudit": "C15H11ClN2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DLNKOYKMWOXYQA-CBAPKCEASA-N",
+      "nt52": false,
+      "computedInChIKey": "DLNKOYKMWOXYQA-CBAPKCEASA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H13NO",
+      "computedFormulaForAudit": "C9H13NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZDHCJEIGTNNEMY-XGXHKTLJSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZDHCJEIGTNNEMY-XGXHKTLJSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H30O2",
+      "computedFormulaForAudit": "C20H30O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PMCBDBWCQQBSRJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PMCBDBWCQQBSRJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H20N2O",
+      "computedFormulaForAudit": "C14H20N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H18FN3O3",
+      "computedFormulaForAudit": "C16H18FN3O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FGLAMNFOHWVQOH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FGLAMNFOHWVQOH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H17N3",
+      "computedFormulaForAudit": "C16H17N3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RIKMCJUNPCRFMW-ISWURRPUSA-N",
+      "nt52": false,
+      "computedInChIKey": "RIKMCJUNPCRFMW-ISWURRPUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19NO4",
+      "computedFormulaForAudit": "C17H19NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PDJZPNKVLDWEKI-GOEBONIOSA-N",
+      "nt52": false,
+      "computedInChIKey": "PDJZPNKVLDWEKI-GOEBONIOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H21NO2",
+      "computedFormulaForAudit": "C16H21NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UWJUQVWARXYRCG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UWJUQVWARXYRCG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H23NO2",
+      "computedFormulaForAudit": "C15H23NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KYYIDSXMWOZKMP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KYYIDSXMWOZKMP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C16H25NO2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "WWVIUVHFPSALDO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WWVIUVHFPSALDO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C23H48N2O",
+      "computedFormulaForAudit": "C23H48N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JPMIIZHYYWMHDT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JPMIIZHYYWMHDT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C11H19NOS",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "YBGZDTIWKVFICR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YBGZDTIWKVFICR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C18H26O3",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "FMJSMJQBSVNSBF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FMJSMJQBSVNSBF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H27NO2",
+      "computedFormulaForAudit": "C24H27NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HTKPDYSCAPSXIR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HTKPDYSCAPSXIR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H26N",
+      "computedFormulaForAudit": "C11H26N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "GSDSWSVVBLHKDQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GSDSWSVVBLHKDQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H20FN3O4",
+      "computedFormulaForAudit": "C18H20FN3O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JBIMVDZLSHOPLA-LSCVHKIXSA-N",
+      "nt52": false,
+      "computedInChIKey": "JBIMVDZLSHOPLA-LSCVHKIXSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C21H23NO3",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "FELGMEQIXOGIFQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FELGMEQIXOGIFQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H19N3O",
+      "computedFormulaForAudit": "C18H19N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UWYHMGVUTGAWSP-JKIFEVAISA-N",
+      "nt52": false,
+      "computedInChIKey": "UWYHMGVUTGAWSP-JKIFEVAISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H19N3O5S",
+      "computedFormulaForAudit": "C19H19N3O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H11ClN2O2",
+      "computedFormulaForAudit": "C15H11ClN2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CTRLABGOLIVAIY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CTRLABGOLIVAIY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H12N2O2",
+      "computedFormulaForAudit": "C15H12N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BEZZFPOZAYTVHN-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BEZZFPOZAYTVHN-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H13N3O3S",
+      "computedFormulaForAudit": "C15H13N3O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XIQVNETUBQGFHX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XIQVNETUBQGFHX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H31NO3",
+      "computedFormulaForAudit": "C22H31NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BRUQQQPBMZOVGD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BRUQQQPBMZOVGD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H21NO4",
+      "computedFormulaForAudit": "C18H21NO4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HXNFUBHNUDHIGC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HXNFUBHNUDHIGC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C5H4N4O2",
+      "computedFormulaForAudit": "C5H4N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AHJKRLASYNVKDZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AHJKRLASYNVKDZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H10Cl4",
+      "computedFormulaForAudit": "C14H10Cl4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UCNVFOCBFJOQAL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UCNVFOCBFJOQAL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H8Cl4",
+      "computedFormulaForAudit": "C14H8Cl4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WUBBRNOQWQTFEX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WUBBRNOQWQTFEX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H7NO3",
+      "computedFormulaForAudit": "C7H7NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IQPSEEYGBUAQFF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IQPSEEYGBUAQFF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H15F2N3O4S",
+      "computedFormulaForAudit": "C16H15F2N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AHOUBRCZNHFOSL-YOEHRIQHSA-N",
+      "nt52": false,
+      "computedInChIKey": "AHOUBRCZNHFOSL-YOEHRIQHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H20FNO3",
+      "computedFormulaForAudit": "C19H20FNO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JNTOCHDNEULJHD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JNTOCHDNEULJHD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H15N5O3",
+      "computedFormulaForAudit": "C10H15N5O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QPCDCPDFJACHGM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QPCDCPDFJACHGM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H23N3O10",
+      "computedFormulaForAudit": "C14H23N3O10",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BYPFEZZEUUWMEJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BYPFEZZEUUWMEJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H18N4O3",
+      "computedFormulaForAudit": "C13H18N4O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CSWIKHNSBZVWNQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CSWIKHNSBZVWNQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C16H22ClNO2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "JGTNAGYHADQMCM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JGTNAGYHADQMCM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C4HF9O3S",
+      "computedFormulaForAudit": "C4HF9O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PCIUEQPBYFRTEM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10HF19O2",
+      "computedFormulaForAudit": "C10HF19O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZWBAMYVPMDSJGQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZWBAMYVPMDSJGQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7HF13O2",
+      "computedFormulaForAudit": "C7HF13O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PXUULQAPEKKVAH-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PXUULQAPEKKVAH-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6HF11O2",
+      "computedFormulaForAudit": "C6HF11O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QZHDEAJFRJCDMF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6HF13O3S",
+      "computedFormulaForAudit": "C6HF13O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UZUFPBIDKMEQEQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9HF17O2",
+      "computedFormulaForAudit": "C9HF17O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8HF17O3S",
+      "computedFormulaForAudit": "C8HF17O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OBBDJQMNZLQVAZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OBBDJQMNZLQVAZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H20N2O",
+      "computedFormulaForAudit": "C16H20N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DDBREPKUVSBGFI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DDBREPKUVSBGFI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H12N2O3",
+      "computedFormulaForAudit": "C12H12N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MDNWOSOZYLHTCG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MDNWOSOZYLHTCG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H10Cl2O2",
+      "computedFormulaForAudit": "C13H10Cl2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CJXNQQLTDXASSR-OCCSQVGLSA-N",
+      "nt52": false,
+      "computedInChIKey": "CJXNQQLTDXASSR-OCCSQVGLSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H21NO2",
+      "computedFormulaForAudit": "C14H21NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CJCOBMTYEDBBSY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CJCOBMTYEDBBSY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H11NO2",
+      "computedFormulaForAudit": "C13H11NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MRBDMNSDAVCSSF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MRBDMNSDAVCSSF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H19N3O",
+      "computedFormulaForAudit": "C17H19N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FIPWRIJSWJWJAI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FIPWRIJSWJWJAI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H30O5",
+      "computedFormulaForAudit": "C19H30O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YFGYUFNIOHWBOB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YFGYUFNIOHWBOB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H18N4O2",
+      "computedFormulaForAudit": "C11H18N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QYSPLQLAKJAUJT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QYSPLQLAKJAUJT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H13N3O4S",
+      "computedFormulaForAudit": "C15H13N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TUZYXOIXSAXUGO-PZAWKZKUSA-N",
+      "nt52": false,
+      "computedInChIKey": "TUZYXOIXSAXUGO-PZAWKZKUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C23H36O7",
+      "computedFormulaForAudit": "C23H36O7",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OIGNJSKKLXVSLS-VWUMJDOOSA-N",
+      "nt52": false,
+      "computedInChIKey": "OIGNJSKKLXVSLS-VWUMJDOOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H28O5",
+      "computedFormulaForAudit": "C21H28O5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MVFGUOIZUNYYSO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MVFGUOIZUNYYSO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H20N2O",
+      "computedFormulaForAudit": "C13H20N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DQMZLTXERSFNPB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DQMZLTXERSFNPB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H14N2O2",
+      "computedFormulaForAudit": "C12H14N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TVLSRXXIMLFWEO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "TVLSRXXIMLFWEO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H16Cl3N3O2",
+      "computedFormulaForAudit": "C15H16Cl3N3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PWWVAXIEGOYWEE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PWWVAXIEGOYWEE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H20N2S",
+      "computedFormulaForAudit": "C17H20N2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HYHJOUPYTUBFIX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HYHJOUPYTUBFIX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H13NO3",
+      "computedFormulaForAudit": "C11H13NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WZZLDXDUQPOXNW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WZZLDXDUQPOXNW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H20N2O2",
+      "computedFormulaForAudit": "C9H20N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "STJLVHWMYQXCPB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "STJLVHWMYQXCPB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H17Cl2N3O2",
+      "computedFormulaForAudit": "C15H17Cl2N3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AQHHHDLHHXJYJD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AQHHHDLHHXJYJD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H21NO2",
+      "computedFormulaForAudit": "C16H21NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PXWLVJLKJGVOKE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PXWLVJLKJGVOKE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H18N2O",
+      "computedFormulaForAudit": "C14H18N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HHUQPWODPBDTLI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HHUQPWODPBDTLI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H15Cl2N3O",
+      "computedFormulaForAudit": "C14H15Cl2N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ROVGZAWFACYCSP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ROVGZAWFACYCSP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H28O3",
+      "computedFormulaForAudit": "C21H28O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LOUPRKONTZGTKE-WZBLMQSHSA-N",
+      "nt52": false,
+      "computedInChIKey": "LOUPRKONTZGTKE-WZBLMQSHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C20H24N2O2",
+      "computedFormulaForAudit": "C20H24N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SMWDFEZZVXVKRB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SMWDFEZZVXVKRB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H7N",
+      "computedFormulaForAudit": "C9H7N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GZUITABIAKMVPG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GZUITABIAKMVPG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C28H27NO4S",
+      "computedFormulaForAudit": "C28H27NO4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VMXUWOKSQNHOCA-UKTHLTGXSA-N",
+      "nt52": false,
+      "computedInChIKey": "VMXUWOKSQNHOCA-UKTHLTGXSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H22N4O3S",
+      "computedFormulaForAudit": "C13H22N4O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SKHXRNHSZTXSLP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SKHXRNHSZTXSLP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H22N4O4S",
+      "computedFormulaForAudit": "C13H22N4O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LUKBXSAWLPMMSZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LUKBXSAWLPMMSZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H12O3",
+      "computedFormulaForAudit": "C14H12O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RAPZEAPATHNIPO-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RAPZEAPATHNIPO-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C23H27FN4O2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "INGSNVSERUZOAK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "INGSNVSERUZOAK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H17NO2",
+      "computedFormulaForAudit": "C13H17NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IOVGROKTTNBUGK-SJCJKPOMSA-N",
+      "nt52": false,
+      "computedInChIKey": "IOVGROKTTNBUGK-SJCJKPOMSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H21NO3",
+      "computedFormulaForAudit": "C17H21NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NCDNCNXCDXHOMX-FDEOAKKQSA-N",
+      "nt52": false,
+      "computedInChIKey": "NCDNCNXCDXHOMX-FDEOAKKQSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C37H48N6O5S2",
+      "computedFormulaForAudit": "C37H48N6O5S2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KGFYHTZWPPHNLQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KGFYHTZWPPHNLQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H18ClN3O5S",
+      "computedFormulaForAudit": "C19H18ClN3O5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "UHSKFQJFRQCDBE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "UHSKFQJFRQCDBE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H24N2O",
+      "computedFormulaForAudit": "C16H24N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZKMNUMMKYBVTFN-HNNXBMFYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZKMNUMMKYBVTFN-HNNXBMFYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H26N2O",
+      "computedFormulaForAudit": "C17H26N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BPRHUIZQVSMCRT-YXWZHEERSA-N",
+      "nt52": false,
+      "computedInChIKey": "BPRHUIZQVSMCRT-YXWZHEERSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C22H28FN3O6S",
+      "computedFormulaForAudit": "C22H28FN3O6S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RXZBMPWDPOLZGW-XMRMVWPWSA-N",
+      "nt52": false,
+      "computedInChIKey": "RXZBMPWDPOLZGW-XMRMVWPWSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C41H76N2O15",
+      "computedFormulaForAudit": "C41H76N2O15",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CVHZOJJKTDOEJC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CVHZOJJKTDOEJC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H5NO3S",
+      "computedFormulaForAudit": "C7H5NO3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NDAUXUAQIAJITI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NDAUXUAQIAJITI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H21NO3",
+      "computedFormulaForAudit": "C13H21NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KQXDHUJYNAXLNZ-XQSDOZFQSA-N",
+      "nt52": false,
+      "computedInChIKey": "KQXDHUJYNAXLNZ-XQSDOZFQSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C42H70O11",
+      "computedFormulaForAudit": "C42H70O11",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "VGKDLMBJGBXTGI-SJCJKPOMSA-N",
+      "nt52": false,
+      "computedInChIKey": "VGKDLMBJGBXTGI-SJCJKPOMSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H17Cl2N",
+      "computedFormulaForAudit": "C17H17Cl2N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CSPPKDPQLUUTND-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CSPPKDPQLUUTND-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H29NO3S",
+      "computedFormulaForAudit": "C17H29NO3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BQCADISMDOOEFD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BQCADISMDOOEFD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Ag",
+      "computedFormulaForAudit": "Ag",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H12ClN5",
+      "computedFormulaForAudit": "C7H12ClN5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MGLWZSOBALDPEK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MGLWZSOBALDPEK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C8H15N5S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ODQWQRRAPPTVAG-GZTJUZNOSA-N",
+      "nt52": false,
+      "computedInChIKey": "ODQWQRRAPPTVAG-GZTJUZNOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H21NO",
+      "computedFormulaForAudit": "C19H21NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MFFMDFFZMYYVKS-SECBINFHSA-N",
+      "nt52": false,
+      "computedInChIKey": "MFFMDFFZMYYVKS-SECBINFHSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H15F6N5O",
+      "computedFormulaForAudit": "C16H15F6N5O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AJVIQNYVMGYYOL-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "AJVIQNYVMGYYOL-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C16H25NaO3S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "DGSDBJMBHCQYGN-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "DGSDBJMBHCQYGN-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C8H17NaO4S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "DUXXGJTXFHUORE-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "DUXXGJTXFHUORE-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C19H31NaO3S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "YDXPQRDEXXBSRQ-UHFFFAOYSA-M",
+      "nt52": false,
+      "computedInChIKey": "YDXPQRDEXXBSRQ-UHFFFAOYSA-M",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C17H27NaO3S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ZBMZVLHSJCTVON-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZBMZVLHSJCTVON-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H20N2O3S",
+      "computedFormulaForAudit": "C12H20N2O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SRJQTHAZUNRMPR-UYQKXTDMSA-N",
+      "nt52": false,
+      "computedInChIKey": "SRJQTHAZUNRMPR-UYQKXTDMSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C41H65NO10",
+      "computedFormulaForAudit": "C41H65NO10",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GOLXNESZZPUPJE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GOLXNESZZPUPJE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C23H30O4",
+      "computedFormulaForAudit": "C23H30O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PUYXTUJWRLOUCW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PUYXTUJWRLOUCW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H35NO2",
+      "computedFormulaForAudit": "C18H35NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BAQAVOSOZGMPRM-QBMZZYIRSA-N",
+      "nt52": false,
+      "computedInChIKey": "BAQAVOSOZGMPRM-QBMZZYIRSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H19Cl3O8",
+      "computedFormulaForAudit": "C12H19Cl3O8",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PQTBTIFWAXVEPB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PQTBTIFWAXVEPB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H13ClO5S",
+      "computedFormulaForAudit": "C14H13ClO5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QKLPUVXBJHRFQZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QKLPUVXBJHRFQZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C10H9ClN4O2S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "SEEPANYCNGTZFQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SEEPANYCNGTZFQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H10N4O2S",
+      "computedFormulaForAudit": "C10H10N4O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZZORFUFYDOWNEF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZZORFUFYDOWNEF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H14N4O4S",
+      "computedFormulaForAudit": "C12H14N4O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QPPBRPIAZZHUNT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QPPBRPIAZZHUNT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C11H12N4O2S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "ASWVTGNCAZCNNR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ASWVTGNCAZCNNR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H14N4O2S",
+      "computedFormulaForAudit": "C12H14N4O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JLKIGFTWXXRPMT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JLKIGFTWXXRPMT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H11N3O3S",
+      "computedFormulaForAudit": "C10H11N3O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "QCDQDISRALTLNQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "QCDQDISRALTLNQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C8H12N2O2S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "GECHUMIMRBOMGK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GECHUMIMRBOMGK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C11H11N3O2S",
+      "computedFormulaForAudit": "C11H11N3O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NCEXYHBECQHGNR-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NCEXYHBECQHGNR-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C18H14N4O5S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "JNMRHUJNCSQMMB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JNMRHUJNCSQMMB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H9N3O2S2",
+      "computedFormulaForAudit": "C9H9N3O2S2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "CSMFSDCPJHNZRY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "CSMFSDCPJHNZRY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H22O4S",
+      "computedFormulaForAudit": "C10H22O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BGRJTUBHPOOWDU-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BGRJTUBHPOOWDU-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H23N3O4S",
+      "computedFormulaForAudit": "C15H23N3O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KQKPFRSPSRPDEB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "KQKPFRSPSRPDEB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H21N3O2S",
+      "computedFormulaForAudit": "C14H21N3O2S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "KWTWDQCKEHXFFR-SMDDNHRTSA-N",
+      "nt52": false,
+      "computedInChIKey": "KWTWDQCKEHXFFR-SMDDNHRTSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H23NO",
+      "computedFormulaForAudit": "C14H23NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PXMNMQRDXWABCY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PXMNMQRDXWABCY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H22ClN3O",
+      "computedFormulaForAudit": "C16H22ClN3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RMMXLENWKUUMAY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RMMXLENWKUUMAY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C33H30N4O2",
+      "computedFormulaForAudit": "C33H30N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SEQDDYPDSLOBDC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SEQDDYPDSLOBDC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H13ClN2O2",
+      "computedFormulaForAudit": "C16H13ClN2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SGOIRFVFHAKUTI-ZCFIWIBFSA-N",
+      "nt52": false,
+      "computedInChIKey": "SGOIRFVFHAKUTI-ZCFIWIBFSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H14N5O4P",
+      "computedFormulaForAudit": "C9H14N5O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DQWPFSLDHJDLRL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DQWPFSLDHJDLRL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C6H15O4P",
+      "computedFormulaForAudit": "C6H15O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DOMXUEMWDBAQBQ-WEVVVXLNSA-N",
+      "nt52": false,
+      "computedInChIKey": "DOMXUEMWDBAQBQ-WEVVVXLNSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C21H25N",
+      "computedFormulaForAudit": "C21H25N",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XWTYSIMOBUGWOL-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XWTYSIMOBUGWOL-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H19NO3",
+      "computedFormulaForAudit": "C12H19NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FZXISNSWEXTPMF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FZXISNSWEXTPMF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H16ClN5",
+      "computedFormulaForAudit": "C9H16ClN5",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OYTCZOJKXCTBHG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OYTCZOJKXCTBHG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H17N5O",
+      "computedFormulaForAudit": "C9H17N5O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IROINLKCQGIITA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IROINLKCQGIITA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H19N5S",
+      "computedFormulaForAudit": "C10H19N5S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GKCBAIGFKIBETG-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GKCBAIGFKIBETG-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H24N2O2",
+      "computedFormulaForAudit": "C15H24N2O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "OSBSFAARYOCBHB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OSBSFAARYOCBHB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H28N",
+      "computedFormulaForAudit": "C12H28N+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "YAPQBXQYLJRXSA-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YAPQBXQYLJRXSA-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H8N4O2",
+      "computedFormulaForAudit": "C7H8N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZFXYFBGIUFBOJW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZFXYFBGIUFBOJW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H8N4O2",
+      "computedFormulaForAudit": "C7H8N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WJCNZQLZVWNLKY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "WJCNZQLZVWNLKY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H7N3S",
+      "computedFormulaForAudit": "C10H7N3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HOKKPVIRMVDYPB-UVTDQMKNSA-N",
+      "nt52": false,
+      "computedInChIKey": "HOKKPVIRMVDYPB-UHFFFAOYSA-N",
+      "structureStatus": "same_connectivity_stereochemistry_review",
+      "sourceFormula": "C10H9ClN4S",
+      "computedFormulaForAudit": "C10H9ClN4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LEZHOZPJYAQQNU-UVTDQMKNSA-N",
+      "nt52": false,
+      "computedInChIKey": "LEZHOZPJYAQQNU-UVTDQMKNSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C10H11ClN4OS",
+      "computedFormulaForAudit": "C10H11ClN4OS",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NWWZPOKUUAIXIW-DHZHZOJOSA-N",
+      "nt52": false,
+      "computedInChIKey": "NWWZPOKUUAIXIW-DHZHZOJOSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H10ClN5O3S",
+      "computedFormulaForAudit": "C8H10ClN5O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "JTVPZMFULRWINT-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "JTVPZMFULRWINT-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H24N2O4S",
+      "computedFormulaForAudit": "C15H24N2O4S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "WDEFBBTXULIOBB-WBVHZDCISA-N",
+      "nt52": false,
+      "computedInChIKey": "WDEFBBTXULIOBB-WBVHZDCISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H23NO2",
+      "computedFormulaForAudit": "C17H23NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C7H8",
+      "computedFormulaForAudit": "C7H8",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DNRJTBAOUJJKDY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "DNRJTBAOUJJKDY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H26O",
+      "computedFormulaForAudit": "C18H26O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "NGBFQHCMQULJNZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NGBFQHCMQULJNZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H20N4O3S",
+      "computedFormulaForAudit": "C16H20N4O3S",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "TVYLLZQTGLZFBW-ZBFHGGJFSA-N",
+      "nt52": false,
+      "computedInChIKey": "TVYLLZQTGLZFBW-ZBFHGGJFSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H25NO2",
+      "computedFormulaForAudit": "C16H25NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HBXKSXMNNGHBEA-ZBFHGGJFSA-N",
+      "nt52": false,
+      "computedInChIKey": "HBXKSXMNNGHBEA-ZBFHGGJFSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H25NO3",
+      "computedFormulaForAudit": "C16H25NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GYDJEQRTZSCIOI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GYDJEQRTZSCIOI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H15NO2",
+      "computedFormulaForAudit": "C8H15NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PRGQOPPDPVELEG-KBPBESRZSA-N",
+      "nt52": false,
+      "computedInChIKey": "PRGQOPPDPVELEG-KBPBESRZSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C15H14N2O3",
+      "computedFormulaForAudit": "C15H14N2O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "DNTGGZPQPQTDQF-XBXARRHUSA-N",
+      "nt52": false,
+      "computedInChIKey": "DNTGGZPQPQTDQF-XBXARRHUSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H17NO",
+      "computedFormulaForAudit": "C13H17NO",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MEHHPFQKXOUFFV-OWSLCNJRSA-N",
+      "nt52": false,
+      "computedInChIKey": "MEHHPFQKXOUFFV-OWSLCNJRSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C18H22O2",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H27O4P",
+      "computedFormulaForAudit": "C12H27O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "BAZVSMNPJJMILC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "BAZVSMNPJJMILC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H18ClN3O2",
+      "computedFormulaForAudit": "C14H18ClN3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FNYLWPVRPXGIIP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FNYLWPVRPXGIIP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H11N7",
+      "computedFormulaForAudit": "C12H11N7",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ICUTUKXCWQYESQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ICUTUKXCWQYESQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C13H9Cl3N2O",
+      "computedFormulaForAudit": "C13H9Cl3N2O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "XEFQLINVKFYRCS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XEFQLINVKFYRCS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C12H7Cl3O2",
+      "computedFormulaForAudit": "C12H7Cl3O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YFNKIDBQEZZDLK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YFNKIDBQEZZDLK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H18O4",
+      "computedFormulaForAudit": "C8H18O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ISZQNKFXNXQTTF-NACSPRHISA-N",
+      "nt52": false,
+      "computedInChIKey": "ISZQNKFXNXQTTF-NACSPRHISA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H17F3N2O4",
+      "computedFormulaForAudit": "C19H17F3N2O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "IEDVJHCEMCRBQM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "IEDVJHCEMCRBQM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H18N4O3",
+      "computedFormulaForAudit": "C14H18N4O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "AZFQCTBZOPUVOW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "AZFQCTBZOPUVOW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C19H18P+",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "XZZNDPSIHUTMOC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "XZZNDPSIHUTMOC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H15O4P",
+      "computedFormulaForAudit": "C18H15O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "FIQMHBFVRAXMOP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "FIQMHBFVRAXMOP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C18H15OP",
+      "computedFormulaForAudit": "C18H15OP",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "RXPQRKFMDQNODS-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "RXPQRKFMDQNODS-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C9H21O4P",
+      "computedFormulaForAudit": "C9H21O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GTVWRXDRKAHEAD-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GTVWRXDRKAHEAD-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H51O4P",
+      "computedFormulaForAudit": "C24H51O4P",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LIPMRGQQBZJCTM-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LIPMRGQQBZJCTM-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C27H33O4P",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "OYYDSUSKLWTMMQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "OYYDSUSKLWTMMQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C25H30NO3",
+      "computedFormulaForAudit": "C25H30NO3+",
+      "formulaStatus": "charge_notation_only"
+    },
+    {
+      "id": "NIJJYAXOARWZEE-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "NIJJYAXOARWZEE-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C8H16O2",
+      "computedFormulaForAudit": "C8H16O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ACWBQPMHZXGDFX-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ACWBQPMHZXGDFX-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C24H29N5O3",
+      "computedFormulaForAudit": "C24H29N5O3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "USAWIVMZUYOXCF-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "USAWIVMZUYOXCF-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C14H10N4O2",
+      "computedFormulaForAudit": "C14H10N4O2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LEONUFNNVUYDNQ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LEONUFNNVUYDNQ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "V",
+      "computedFormulaForAudit": "V",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MYPYJXKWCTUITO-LYRMYLQWSA-N",
+      "nt52": false,
+      "computedInChIKey": "MYPYJXKWCTUITO-LYRMYLQWSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C66H75Cl2N9O24",
+      "computedFormulaForAudit": "C66H75Cl2N9O24",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "SECKRCOLJRRGGV-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "SECKRCOLJRRGGV-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": null,
+      "computedFormulaForAudit": "C23H32N6O4S",
+      "formulaStatus": "not_available"
+    },
+    {
+      "id": "PNVNVHUZROJLTJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PNVNVHUZROJLTJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H27NO2",
+      "computedFormulaForAudit": "C17H27NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "LASJEFFANGIOGZ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "LASJEFFANGIOGZ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H27NO3",
+      "computedFormulaForAudit": "C17H27NO3",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "MKAFOJAJJMUXLW-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "MKAFOJAJJMUXLW-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H25NO2",
+      "computedFormulaForAudit": "C16H25NO2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "YBUIAJZFOGJGLJ-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "YBUIAJZFOGJGLJ-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H26O",
+      "computedFormulaForAudit": "C17H26O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "PJVWKTKQMONHTI-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "PJVWKTKQMONHTI-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H16O4",
+      "computedFormulaForAudit": "C19H16O4",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HUCJFAOMUPXHDK-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HUCJFAOMUPXHDK-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C16H24N2",
+      "computedFormulaForAudit": "C16H24N2",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "Zn",
+      "computedFormulaForAudit": "Zn",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "ZAFYATHCZYHLPB-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "ZAFYATHCZYHLPB-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C19H21N3O",
+      "computedFormulaForAudit": "C19H21N3O",
+      "formulaStatus": "exact"
+    },
+    {
+      "id": "GBBSUAFBMRNDJC-UHFFFAOYSA-N",
+      "nt52": false,
+      "computedInChIKey": "GBBSUAFBMRNDJC-UHFFFAOYSA-N",
+      "structureStatus": "exact_inchikey",
+      "sourceFormula": "C17H17ClN6O3",
+      "computedFormulaForAudit": "C17H17ClN6O3",
+      "formulaStatus": "exact"
+    }
+  ],
+  "counts": {
+    "structures": {
+      "exact_inchikey": 657,
+      "same_connectivity_stereochemistry_review": 6
+    },
+    "formulas": {
+      "exact": 588,
+      "charge_notation_only": 13,
+      "not_available": 62
+    }
+  }
+}

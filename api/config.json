@@ -1,0 +1,9 @@
+{
+  "packageRoot": "local_code",
+  "device": "cpu",
+  "checkpointSHA256": "c855169116d79d2c957a29107ffc04464555f39aec0eef90c90390f2c2b2008b",
+  "modelSHA256": "5eb1ee0034d641c24297ec57ebfc26a3bd6b708515ca86cc62e9dbaf5edfd5c2",
+  "modelLabel": "WPN WW-DE / TabPFN 2.6 / fitted 472 chemicals / CPU",
+  "dataVersion": "2026-09-25 A2; manuscript 2026-10-04",
+  "maximumRetainedRuns": 128
+}

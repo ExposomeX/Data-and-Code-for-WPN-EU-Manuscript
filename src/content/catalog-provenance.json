@@ -1,0 +1,160 @@
+{
+  "version": "2026-10-08-BW-A2",
+  "generatedAt": "2026-10-08T09:26:43.871546+00:00",
+  "sources": {
+    "cohort": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\preparation\\cohort\\chemical_metadata.csv",
+      "bytes": 56503,
+      "sha256": "13f45bce955df1c9b8d1ff4e7275b0ea9b596845e429307fa9491922bc0f820d"
+    },
+    "identity52": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\preparation\\REP_52_identity.csv",
+      "bytes": 3329,
+      "sha256": "91af2eb92cb8b5267a2d74ef72f59703d6267b1b42a3b7447226f892132847f8"
+    },
+    "parameters": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\models\\chemical_parameters.csv",
+      "bytes": 8087283,
+      "sha256": "87d225892e66b59bb3ed748c7fdaa84845cd77c415974b557a75a41acca9250e"
+    },
+    "identityMaster": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\models\\chemical_mass.csv",
+      "bytes": 562421,
+      "sha256": "e1505b974066e1fb384021f7eeca6e510607be7f4fe1118e0d8fbbbaad6ac49e"
+    },
+    "massAudit": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\preparation\\matrices\\mass_mapping_audit.csv",
+      "bytes": 120716,
+      "sha256": "8236335b15be660d56fe6b452a1c89d7ceb9377ebec9d4a9ff7128e041682696"
+    },
+    "coverage": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\preparation\\cohort\\correlation_support_eligibility_audit.csv",
+      "bytes": 39598,
+      "sha256": "ac4997b5bf6c4793e60e6b217b1c62abbe967f82472839f08c18addf98a846ad"
+    },
+    "cityMetrics": {
+      "path": "【投稿版本】\\WPN_code\\results\\Step4\\A2_predictions\\step10a_gub_city_chemical_cb_rep_beq_with_cb_nM.csv",
+      "bytes": 7553856,
+      "sha256": "ee39b84ac621ff3000257d026080ab7aa9fbc37bca4f0b84dcd0959a5a098ccb"
+    },
+    "ranks": {
+      "path": "【投稿版本】\\WPN_code\\results\\Step4\\A2_predictions\\chemical_summary_and_ranks_REP52.csv",
+      "bytes": 69152,
+      "sha256": "d00733b04e277416ca1db2ceac2d4fe8adf37c43a531c4554d6f466d786e1ca8"
+    },
+    "concentrations": {
+      "path": "【投稿版本】\\WPN_code\\results\\Step2\\A2_after_supplement\\matrices\\concentration_long_final_imputed_nM.csv",
+      "bytes": 9839247,
+      "sha256": "93928c58eeca952d1fd2b67c16cc43a332fcfce40e51d524ea96f5aa2fd2aaa0"
+    },
+    "norman": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\figures\\selection\\NORMAN_inventory.xlsx",
+      "bytes": 61662,
+      "sha256": "716caa7ab2e5353eff34a3aed99a4715f9245d4739c416dd2ae1a5efd50faacc"
+    },
+    "literature": {
+      "path": "【投稿版本】\\WPN_code\\results\\Step5\\frozen\\tables\\Table S2. Literature-derived candidate chemicals.xlsx",
+      "bytes": 115593,
+      "sha256": "d71c5ea04c8b77a1ba5c8e8d2d4fad8c3e0f5dd0f21817dc7b6ce4698d7c3da2"
+    },
+    "literature355": {
+      "path": "Data_and_Table\\Neurotoxic_chemical_Literature.xlsx",
+      "bytes": 64158,
+      "sha256": "ec8ff9e553af523bfbcdd2f4ae9aa56dfb0faccc7930033e19671fd02f34ea63"
+    },
+    "rep": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\figures\\selection\\Science_REP.xlsx",
+      "bytes": 46624,
+      "sha256": "73b8781e704f39e721d6fb0710cd2fbbd3c14aa81f92f2f278ea1ca98f9d0917"
+    },
+    "training": {
+      "path": "Data_and_Table\\Table_S_2026.09.25\\Table S14. Chemical-level WW-DE model training data for 472 chemicals.xlsx",
+      "bytes": 66718,
+      "sha256": "a2fef8379124b4fcc05c605c4124c4552a2fd69ff11452ff51e4d44f36c88f1a"
+    },
+    "useSource": {
+      "path": "【投稿版本】\\WPN_code\\data_raw\\fao\\chemical_use_source_classification.csv",
+      "bytes": 17592,
+      "sha256": "0d68e6f1e7887be42a4732d5613961fb4031a00dca16590f5381d382d49fe646"
+    }
+  },
+  "fieldRules": {
+    "id": "Exact frozen-cohort StdInChIKey",
+    "trainingMember": "Exact DTXSID membership in Table S14 (472 chemicals)",
+    "defaultWW": "statistics.median of all 117 frozen Step4 ww_concentration_nM values per NT52, matching the backend input contract. Near equality checked against Step2 final values and frozen ranking CSV; serialization-level differences are not different scientific scenarios.",
+    "rep": "Positive numerical Rep from Science_REP.xlsx; NT52 checked against Step4 REP",
+    "identity": "Exact-InChIKey chemical_mass identity master first, then mass audit/NORMAN/literature; CAS check digits and formula syntax reject upstream displaced metadata; per-field sources recorded",
+    "category": "Category_II from original parameter source, with category_source and category_llm_status retained",
+    "molecularWeight": "Step4 mass for NT52; A2 mass_mapping_audit for other chemicals",
+    "descriptorImputed": "Missing raw fhlb/logSoliquid/logSwliquid flag; values remain null for the model's saved imputer",
+    "halfLifeHours": "ADMETlab t0.5_adme; raw hours, not fish fhlb",
+    "logVDss": "ADMETlab log10(L/kg)"
+  },
+  "counts": {
+    "chemicals": 663,
+    "nt52": 52,
+    "cities": 117,
+    "normanEntries": 1035,
+    "normanValidInChIKeys": 1034,
+    "literatureCandidates": 1554,
+    "positiveREP": 97,
+    "positiveREPInCohort": 53,
+    "creatinineExcluded": 1,
+    "trainingChemicals": 472,
+    "trainingMembersInCatalog": 215,
+    "trainingMembershipUnknown": 11,
+    "trainingMembersInNT52": 27,
+    "nt52RawDescriptorMissing": 3,
+    "nt52ObservedCells": 1408,
+    "nt52ReconstructedCells": 4676,
+    "identityRowsWithRejectedUpstreamFields": 213,
+    "categoryCountsNT52": {
+      "Aromatic polar organics": 23,
+      "Surfactants & quats": 6,
+      "Small polar organics (non-halogenated)": 9,
+      "Organophosphorus compounds": 8,
+      "Bisphenols": 2,
+      "Halogenated persistent organics": 2,
+      "Phthalates": 1,
+      "PFAS": 1
+    },
+    "availableFields": {
+      "cas": 662,
+      "dtxsid": 652,
+      "smiles": 663,
+      "formula": 601,
+      "molecularWeight": 663,
+      "category": 601,
+      "defaultWW": 52,
+      "fhlb": 572,
+      "logSoliquid": 572,
+      "logSwliquid": 572,
+      "halfLifeHours": 601,
+      "logVDss": 601,
+      "rep": 53
+    }
+  },
+  "notes": [
+    "663, 472 and 52 describe different roles, not a nested training-selection funnel.",
+    "descriptorImputed flags missing raw IFSQSAR inputs; null values have not been replaced in the catalogue. The saved model imputer supplies training medians during calculation.",
+    "Category labels can be source-provided, LLM-assigned or manually overridden; categorySource records this provenance.",
+    "A positive REP on creatinine does not make it a selectable NT52 target.",
+    "Predictions for a median-input scenario are not the median of the 117 city-specific predictions; custom results must be separated from manuscript reference statistics."
+  ],
+  "structureAudit": {
+    "status": "checked",
+    "inputSignature": "a86301b5076670b104b9b62b2d205933e893086326c35580cf9f97734fdb42a2",
+    "rdkitVersion": "2025.09.5",
+    "counts": {
+      "structures": {
+        "exact_inchikey": 657,
+        "same_connectivity_stereochemistry_review": 6
+      },
+      "formulas": {
+        "exact": 588,
+        "charge_notation_only": 13,
+        "not_available": 62
+      }
+    }
+  }
+}

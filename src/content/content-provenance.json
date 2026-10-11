@@ -1,0 +1,359 @@
+{
+  "version": "2026-10-08-BW-A2",
+  "documents": [
+    {
+      "path": "Main Text_20261004_BW.docx",
+      "bytes": 40542320,
+      "sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121"
+    },
+    {
+      "path": "SM_20261004_BW.docx",
+      "bytes": 18108077,
+      "sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f"
+    }
+  ],
+  "descriptionBasis": "Editorial website summaries of BW main Results/Methods/Discussion and SM Sections 1–4; custom-platform workflow reflects user-authorized operation. Exact captions remain distinct from summaries.",
+  "figures": [
+    {
+      "id": "Fig1",
+      "title": "Fig. 1 | Wastewater-based framework for prioritizing neurotoxic chemical mixtures across European cities.",
+      "url": "/figures/Fig1.png",
+      "src": "/figures/Fig1.png",
+      "caption": "Fig. 1 | Wastewater-based framework for prioritizing neurotoxic chemical mixtures across European cities.\n(A) Candidate chemicals were identified by intersecting three complementary evidence streams: the wastewater chemical inventory, literature-derived candidates and positive numerical REP values for neurite-outgrowth inhibition. (B) Georeferenced wastewater-monitoring records from the NORMAN network were spatially harmonized across European cities. (C) The WPN translated wastewater signals (WW) into estimated daily exposure (DE), model-derived internal-equivalent exposure (Cb), and subsequently effect-weighted mixture burden using chemical-specific relative effect potency (REP). (D) Biological translation can reorganize chemical priorities, distinguishing chemicals that dominate by environmental abundance from those that dominate by neurotoxic potency.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image1.png",
+      "relationship_id": "rId15",
+      "image_paragraph_index": 71,
+      "caption_paragraph_indices": [
+        72,
+        73
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 683105,
+      "sha256": "d9ee6a707ea158460ddd09864e663dad32063cce94c843f9b4f5125925fef3a8",
+      "width": 1170,
+      "height": 1179,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "Fig2",
+      "title": "Fig. 2 | Fifty-two target wastewater neurotoxic chemicals (NT52) show distinct disease-relevant protein and biological-process profiles in the exposure–biology–disease network.",
+      "url": "/figures/Fig2.png",
+      "src": "/figures/Fig2.png",
+      "caption": "Fig. 2 | Fifty-two target wastewater neurotoxic chemicals (NT52) show distinct disease-relevant protein and biological-process profiles in the exposure–biology–disease network.\n(A) Proportional contribution of each target wastewater chemical to disease-associated proteins in the exposure-protein-protein-disease (EPPD) network, expressed as the percentage of proteins linked to each chemical among all disease-associated proteins. NT52 denotes the complete set of 52 target wastewater neurotoxic chemicals. (B) Proportional contribution of each chemical to disease-associated biological processes in the exposure-Gene Ontology (GO)-disease (EGoD) network, expressed as the percentage of disease-associated GO terms linked to each chemical. (C) Layered circular visualization of the EPPD network for NT52, linking wastewater chemicals, proteins and representative neurobehavioral disorders. (D) Layered circular visualization of the EGoD network for NT52, linking wastewater chemicals, neurotoxicity-related biological processes and representative neurobehavioral disorders. Representative entities are labelled to illustrate major exposure–biology–disease connections. Data and computational procedures used to construct the EPPD and EGoD networks are provided in the Supplementary Materials.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image2.png",
+      "relationship_id": "rId16",
+      "image_paragraph_index": 81,
+      "caption_paragraph_indices": [
+        82,
+        83
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 7301867,
+      "sha256": "f8624712436f02d7b0fd0060b864e46da953eae1a7ac752fd6ced86ac25e8875",
+      "width": 6356,
+      "height": 5756,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "Fig3",
+      "title": "Fig. 3. Wastewater-to-effect translation reorders chemical priorities.",
+      "url": "/figures/Fig3.png",
+      "src": "/figures/Fig3.png",
+      "caption": "Fig. 3. Wastewater-to-effect translation reorders chemical priorities.\n(A) WPN translates wastewater concentration (WW) into estimated daily exposure (DE) and then neurite-outgrowth-inhibition bioanalytical equivalent concentration (BEQ). (B) Chemical-resolved WW, DE and BEQ profiles across 117 urban areas. (C) Alluvial diagram of stage-specific rank transitions. Chemicals were ranked separately by their across-urban-area median values and classified as high (ranks 1-18), medium (ranks 19-35) or low (ranks 36-52).",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image3.png",
+      "relationship_id": "rId17",
+      "image_paragraph_index": 92,
+      "caption_paragraph_indices": [
+        93,
+        94
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 8027421,
+      "sha256": "2c7463b586ff7bc1a4ba10af21a51b83dc4080b5b31a5a55dacce1562fb02d3d",
+      "width": 6349,
+      "height": 7629,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "Fig4",
+      "title": "Fig. 4. Effect-weighted neurotoxic mixture burdens across European GUB urban areas.",
+      "url": "/figures/Fig4.png",
+      "src": "/figures/Fig4.png",
+      "caption": "Fig. 4. Effect-weighted neurotoxic mixture burdens across European GUB urban areas.\n(A) Total bioanalytical equivalent concentration (BEQ) across 117 Global Urban Boundary (GUB) urban areas. Symbol size represents GUB area and colour represents city-level total BEQ. (B) Relative chemical contributions to total BEQ within each urban area. (C) Across-city mean chemical-specific BEQ and cumulative contribution, ordered by mean BEQ.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image4.png",
+      "relationship_id": "rId18",
+      "image_paragraph_index": 101,
+      "caption_paragraph_indices": [
+        102,
+        103
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 4160813,
+      "sha256": "cf1970f3df46fe01da57ebfb4c594e0954b5ef81136990a7f0fa71961298433c",
+      "width": 6377,
+      "height": 4934,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "ED1",
+      "title": "Extended Data Fig. 1 | Selecting the target 52 chemicals from the exposome database",
+      "url": "/figures/ED1.png",
+      "src": "/figures/ED1.png",
+      "caption": "Extended Data Fig. 1 | Selecting the target 52 chemicals from the exposome database\n(A) Implemented chemical-selection chain. The literature-derived candidate set comprised 1,554 chemicals. Among these candidates, 97 had positive numerical relative-effect-potency (REP) values for neurite-outgrowth inhibition. The NORMAN wastewater archive contained 1,035 standardized chemicals, of which 663 were measured in at least 3 European Global Urban Boundary (GUB) urban areas. Intersecting the 97 positive-REP chemicals with the 663 sufficiently monitored wastewater chemicals yielded 53 candidates. Exclusion of the endogenous marker creatinine left 52 exogenous target chemicals. (B) Distribution of the 52 chemicals among eight prespecified classes.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image5.png",
+      "relationship_id": "rId26",
+      "image_paragraph_index": 225,
+      "caption_paragraph_indices": [
+        226,
+        227
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 254249,
+      "sha256": "04b2093d7e862af79c307c7bb286c71663ab17cbcca620ab47c5e8d6874ee909",
+      "width": 1951,
+      "height": 675,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "ED2",
+      "title": "Extended Data Fig. 2 | Disease-associated coverage in the EPPD and EGoD networks.",
+      "url": "/figures/ED2.png",
+      "src": "/figures/ED2.png",
+      "caption": "Extended Data Fig. 2 | Disease-associated coverage in the EPPD and EGoD networks.\n(A, B) Disease-specific protein coverage in the EPPD network (A) and GO-term coverage in the EGoD network (B) for the literature-derived candidate set. Individual-chemical columns show returned associations. The first-column NT52 label in the retained image requires verification against the fixed-panel union. Each percentage uses all associated nodes for that disease in the corresponding full network as its denominator. Coverage across chemicals overlaps and is not additive. The networks contain 261 EPPD and 278 EGoD diseases; disease identifiers are shared across networks and are listed in Table S4. (C, D) Mean protein (C) or GO-term (D) coverage as the number of sampled chemicals increases, for the 30 diseases with the largest node unions in each network. Subsets are drawn from the chemicals already linked to each disease, with up to 100 distinct combinations at each subset size.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "note": "The source caption says the first-column NT52 label requires verification against the fixed-panel union; the original is retained.",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image6.png",
+      "relationship_id": "rId27",
+      "image_paragraph_index": 228,
+      "caption_paragraph_indices": [
+        229,
+        230
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 5977603,
+      "sha256": "c9bba9509969e01ff6a5d1be9a783e11fa7bfdcb945473b1ddadbd2d6c41fe4e",
+      "width": 6368,
+      "height": 5658,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "ED3",
+      "title": "Extended Data Fig. 3 | Sensitivity and stability of wastewater concentration reconstruction.",
+      "url": "/figures/ED3.png",
+      "src": "/figures/ED3.png",
+      "caption": "Extended Data Fig. 3 | Sensitivity and stability of wastewater concentration reconstruction.\n(A, B) Observed versus deterministic reconstructed log10(nM) concentrations from ten approximately 10% masking repeats: A1 (A; 589 chemicals, 60 urban areas; 6,160 predictions from 3,981 distinct cells) and A2 (B; 663 chemicals, 117 urban areas; 12,750 predictions from 8,339 distinct cells). Colours identify repeats; dashed lines indicate 1:1 agreement. (C) Original observed-city coverage per chemical. (D) A1 predictions compared with 1,062 newly observed A2 medians. (E) Final residual-sampled A1-A2 matrix consistency over 35,340 shared combinations, including retained measurements and reconstructed values. Orange diamonds identify BIT. (F) Deterministic reconstruction after removing 5%, 10%, 20%, 25%, 50% or 75% of original A2 observations. Lines and shading show ten-repeat means and pointwise 95% t intervals of the conditional random-masking mean.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image7.png",
+      "relationship_id": "rId28",
+      "image_paragraph_index": 231,
+      "caption_paragraph_indices": [
+        232,
+        233
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 4677558,
+      "sha256": "27b206eddef82ff720218775397a0f45993b9ab20da5d27072ca99ddb0a4d9e4",
+      "width": 6293,
+      "height": 3615,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "ED4",
+      "title": "Extended Data Fig. 4 | City-level BEQ profiles after excluding BIT.",
+      "url": "/figures/ED4.png",
+      "src": "/figures/ED4.png",
+      "caption": "Extended Data Fig. 4 | City-level BEQ profiles after excluding BIT.\n(A) Total BEQ across 117 urban areas after excluding BIT. Symbol size represents GUB area and colour represents total residual BEQ. (B) Relative contributions of the remaining 51 chemicals within each urban area. (C) Across-city mean BEQ by chemical and cumulative contribution, ordered by mean BEQ. Shares are normalized to the total after BIT exclusion.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image8.png",
+      "relationship_id": "rId29",
+      "image_paragraph_index": 234,
+      "caption_paragraph_indices": [
+        235,
+        236
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 4420544,
+      "sha256": "ec8e0c34c538ba2ccde70d013977c416f3ba296f4614f1312bb202380fdd049b",
+      "width": 6377,
+      "height": 4918,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "ED6",
+      "title": "Extended Data Fig. 6 | External consistency of effect-weighted chemical ordering using WPN and HExpPredict.",
+      "url": "/figures/ED6.png",
+      "src": "/figures/ED6.png",
+      "caption": "Extended Data Fig. 6 | External consistency of effect-weighted chemical ordering using WPN and HExpPredict.\nFor 42 matched chemicals, each concentration estimate was multiplied by the same DeepToxLab neurotoxicity probability; log10 scores were standardized separately before comparison.",
+      "sourceDocument": "Main Text_20261004_BW.docx",
+      "note": "Historical 42-chemical DeepToxLab-weighted comparison, separate from the current NT52 neurite-outgrowth BEQ analysis.",
+      "source_document_sha256": "23f495ccfc83e00af24067d5e6bc97fbca7573941ac0b9834f02a511ad60b121",
+      "source_media": "word/media/image9.png",
+      "relationship_id": "rId30",
+      "image_paragraph_index": 242,
+      "caption_paragraph_indices": [
+        243,
+        244
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 2774219,
+      "sha256": "66b0a76fc4064d0c2e9943ea3c1761727ea4e295078f898e912a71f50c308969",
+      "width": 5536,
+      "height": 5422,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "FigS1",
+      "title": "Fig. S1 | TabPFN-assisted reconstruction of wastewater chemical profiles across European urban areas.",
+      "url": "/figures/FigS1.png",
+      "src": "/figures/FigS1.png",
+      "caption": "Fig. S1 | TabPFN-assisted reconstruction of wastewater chemical profiles across European urban areas.\n(A) Schematic of the concentration-reconstruction framework. (B) Observed versus predicted log10(nM) concentrations in ten repeated 10% masking tests; the dashed line indicates 1:1 agreement and point colour denotes the validation repeat. (C) Spatial distribution of monitoring records and reconstructed concentrations. Symbol size represents GUB area. Left halves summarize original observation counts across the 663-chemical reconstruction background; right halves shows the log10-transformed sum of reconstructed wastewater concentrations for NT52.",
+      "sourceDocument": "SM_20261004_BW.docx",
+      "source_document_sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f",
+      "source_media": "word/media/image1.png",
+      "relationship_id": "rId12",
+      "image_paragraph_index": 53,
+      "caption_paragraph_indices": [
+        54,
+        55
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 6599188,
+      "sha256": "585713e8a7e4c0ee9d6633f294e8c4d4a1d194708394c051b76dcd9ce0b38d3a",
+      "width": 6324,
+      "height": 5336,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "FigS2",
+      "title": "Fig. S2 | Chemical-level validation and sensitivity analysis of the wastewater-to-daily-exposure model.",
+      "url": "/figures/FigS2.png",
+      "src": "/figures/FigS2.png",
+      "caption": "Fig. S2 | Chemical-level validation and sensitivity analysis of the wastewater-to-daily-exposure model.\n(A) Tenfold cross-validation of the wastewater concentration-to-daily exposure (WW-to-DE) model. Chemicals were randomly assigned to ten folds, with no chemical overlap between training and validation sets. The dashed line denotes 1:1 agreement. (B) Normalized permutation importance of the four predictors in the selected WW-to-DE model. (C) Sensitivity of predicted DE to wastewater concentration. Points indicate the median ratio of perturbed to baseline predicted DE across chemicals and shading indicates the interquartile range.",
+      "sourceDocument": "SM_20261004_BW.docx",
+      "source_document_sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f",
+      "source_media": "word/media/image2.png",
+      "relationship_id": "rId13",
+      "image_paragraph_index": 57,
+      "caption_paragraph_indices": [
+        58,
+        59
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 2634554,
+      "sha256": "58fb873f2009cfcc3af81fb40b68ebcecaad950729c447853e46460a50f625f2",
+      "width": 6350,
+      "height": 7056,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "FigS3",
+      "title": "Fig. S3 | Predicted DE distributions under 0.1× , 1× and 10× wastewater perturbations for the 12 well-performing candidate models.",
+      "url": "/figures/FigS3.png",
+      "src": "/figures/FigS3.png",
+      "caption": "Fig. S3 | Predicted DE distributions under 0.1× , 1× and 10× wastewater perturbations for the 12 well-performing candidate models.\nBlue and orange curves show perturbed predicted log10 DE; the grey curve shows the original predicted DE. Tmconsensus denotes the consensus predicted melting point (K). Fhlb denotes the predicted whole-body biotransformation half-life in a reference fish. LogKow, logKowdry, logKaw and logKoo denote log10 partition coefficients for wet octanol/water, dry octanol/water, air/water and wet/dry octanol, respectively. Wet octanol denotes water-saturated octanol, whereas dry octanol denotes pure octanol. LogSoliquid and logSwliquid denote log10 solubility in dry octanol and water, respectively (mol L-1). logVPliquid denotes log10 vapour pressure (Pa). B, S and L are Abraham solute descriptors for hydrogen-bond basicity, dipolarity/polarizability and log10 hexadecane/air partitioning, respectively. WW (%) denotes the wastewater predictor’s percentage of total importance.",
+      "sourceDocument": "SM_20261004_BW.docx",
+      "source_document_sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f",
+      "source_media": "word/media/image3.png",
+      "relationship_id": "rId14",
+      "image_paragraph_index": 60,
+      "caption_paragraph_indices": [
+        61,
+        62
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 2986236,
+      "sha256": "d3bd50039c0d031d4a52ce480fb2b37ca7eae7419afccb6af333db9d580bccd7",
+      "width": 6284,
+      "height": 4272,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "FigS4",
+      "title": "Fig. S4 | Exploratory national food-supply associations with wastewater chemistry.",
+      "url": "/figures/FigS4.png",
+      "src": "/figures/FigS4.png",
+      "caption": "Fig. S4 | Exploratory national food-supply associations with wastewater chemistry.\n(A) Spearman correlations between national median wastewater concentrations of 52 target chemicals and 2015-2019 median national food-supply quantities for 71 food items across 18 European countries. (B) Food-module summaries for the ten chemicals with the highest arithmetic mean BEQ. Bubble colour represents the mean of all strictly positive correlations within each chemical-module combination, with zero assigned when no correlation is positive. Bubble area represents the fraction of food items in that module with R ≥ 0.5. The rightmost column names each chemical’s highest-correlated food item and its coefficient.",
+      "sourceDocument": "SM_20261004_BW.docx",
+      "source_document_sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f",
+      "source_media": "word/media/image4.png",
+      "relationship_id": "rId15",
+      "image_paragraph_index": 65,
+      "caption_paragraph_indices": [
+        66,
+        67
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 3496110,
+      "sha256": "2a9226d1fe673074347ce07773f69cf0d5e2d70fc522f370222595bd80685cfa",
+      "width": 6225,
+      "height": 6929,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "FigS5",
+      "title": "Fig. S5 | Stability and country-label permutation assessment of positive FAO-wastewater covariance.",
+      "url": "/figures/FigS5.png",
+      "src": "/figures/FigS5.png",
+      "caption": "Fig. S5 | Stability and country-label permutation assessment of positive FAO-wastewater covariance.\nThe observed matrix contained 193 positive food-chemical correlations with R ≥ 0.5 across 71 FAO items, 52 chemicals and 18 countries.",
+      "sourceDocument": "SM_20261004_BW.docx",
+      "note": "The source image/caption reports 193 strong positive associations, whereas the BW main text and supplementary Section 2 report 201. The original figure is retained; the discrepancy remains unresolved.",
+      "source_document_sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f",
+      "source_media": "word/media/image5.png",
+      "relationship_id": "rId16",
+      "image_paragraph_index": 69,
+      "caption_paragraph_indices": [
+        70,
+        71
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 588439,
+      "sha256": "c87719aa6b68ecbc21aaf00ae610ea8c968c205f0dd56cde894bce722c40ae7f",
+      "width": 5991,
+      "height": 3386,
+      "transformation": "none; exact embedded PNG bytes"
+    },
+    {
+      "id": "FigS6",
+      "title": "Fig. S6 | Chemical-class BEQ distributions with and without BIT.",
+      "url": "/figures/FigS6.png",
+      "src": "/figures/FigS6.png",
+      "caption": "Fig. S6 | Chemical-class BEQ distributions with and without BIT.\n(A) All 52 target chemicals. (B) The 51 chemicals remaining after BIT exclusion. For each urban area and chemical class, BEQ is first averaged across the member chemicals and then log10-transformed. Black points show urban-area values and violins show their distributions. Red points mark the arithmetic mean of the plotted log10 values; vertical bars span the 25th-75th percentiles.",
+      "sourceDocument": "SM_20261004_BW.docx",
+      "source_document_sha256": "091cc3a0f1cb5d09bf01603194cb1dcb30a352cb1246d812eb11a3747eb4914f",
+      "source_media": "word/media/image6.png",
+      "relationship_id": "rId17",
+      "image_paragraph_index": 73,
+      "caption_paragraph_indices": [
+        74,
+        75
+      ],
+      "paragraph_index_basis": "zero-based direct body paragraphs in word/document.xml",
+      "bytes": 1565342,
+      "sha256": "15232b12a4719cc70c5d0ffa44e7894f60922780983e5db1b537c5e47f6059ab",
+      "width": 6073,
+      "height": 2746,
+      "transformation": "none; exact embedded PNG bytes"
+    }
+  ],
+  "unresolvedSourceIssues": [
+    "The ED2 source caption explicitly says that its first-column NT52 label requires verification against the fixed-panel union. The original image and caption are retained with a visible note.",
+    "The BW main text and supplementary Section 2 report 201 strong positive FAO associations, while Fig. S5's original caption reports 193. The source discrepancy is retained and not silently corrected.",
+    "Supplementary Section 4 reports 8,399 distinct A2 masking cells, but the BW main Results, ED3 and frozen validation CSV support 8,339. Website reconstruction summaries use the verified 8,339.",
+    "The main Methods contains an E-BIO-based exclusion statement, whereas the supplementary table description states that recognition was not an additional NT52 selection criterion. The implemented fixed-panel selection follows the audited REP/coverage intersection minus creatinine; the wording conflict remains documented.",
+    "ED6 uses historical 42-chemical DeepToxLab-weighted scores and is not independent validation of current NT52 neurite-outgrowth BEQ."
+  ],
+  "generator": "tools/prepare_catalog.py"
+}
