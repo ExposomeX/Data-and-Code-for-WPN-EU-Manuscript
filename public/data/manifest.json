@@ -1,0 +1,226 @@
+{
+  "counts": {
+    "cities": 117,
+    "countries": 18,
+    "chemicals": 663,
+    "targetChemicals": 52,
+    "concentrations": 77571,
+    "observed": 12746,
+    "reconstructed": 64825
+  },
+  "versions": {
+    "manuscript": "2026-10-04 BW",
+    "analysis": "2026-09-25 A2"
+  },
+  "files": [
+    {
+      "name": "cities",
+      "label": "Urban-area metadata",
+      "url": "/downloads/cities-a2.csv",
+      "description": "117 urban areas with country and centroid coordinates.",
+      "rows": 117,
+      "unit": "coordinates in decimal degrees; area in km²",
+      "sha256": "e536aefe22ef70f714d5a4ee6d64048be6eb527d6077b02aabc32933c8f8078b"
+    },
+    {
+      "name": "chemicals",
+      "label": "Chemical metadata",
+      "url": "/downloads/chemicals-a2.csv",
+      "description": "Identifiers and names for the 663 reconstructed chemicals.",
+      "rows": 663,
+      "unit": "identifiers / names",
+      "sha256": "13f45bce955df1c9b8d1ff4e7275b0ea9b596845e429307fa9491922bc0f820d"
+    },
+    {
+      "name": "concentrations",
+      "label": "Observed and reconstructed wastewater concentrations",
+      "url": "/downloads/concentrations-a2.csv",
+      "description": "Complete 117 × 663 A2 matrix in long format; observed values remain identifiable.",
+      "rows": 77571,
+      "unit": "nM",
+      "sha256": "93928c58eeca952d1fd2b67c16cc43a332fcfce40e51d524ea96f5aa2fd2aaa0"
+    },
+    {
+      "name": "ranks",
+      "label": "Chemical priorities and summary statistics",
+      "url": "/downloads/chemical-ranks-nt52-a2.csv",
+      "description": "Original six-metric table, including the three WW/DE/BEQ metrics displayed by the website. Mean and median ranks remain distinct.",
+      "rows": 312,
+      "unit": "metric-specific; contribution in %",
+      "sha256": "d00733b04e277416ca1db2ceac2d4fe8adf37c43a531c4554d6f466d786e1ca8"
+    },
+    {
+      "name": "city_metrics",
+      "label": "WW, exposure and BEQ for the 52 target chemicals",
+      "url": "/downloads/city-metrics-nt52-a2.csv",
+      "description": "Frozen city-by-chemical estimates, parameter values, original provenance fields and observed/reconstructed flags.",
+      "rows": 6084,
+      "unit": "WW: nM; DE: μmol/day; BEQ: μg/L narciclasine-EQ",
+      "sha256": "ee39b84ac621ff3000257d026080ab7aa9fbc37bca4f0b84dcd0959a5a098ccb"
+    },
+    {
+      "name": "validation_predictions",
+      "label": "Imputation validation predictions",
+      "url": "/downloads/imputation-validation-predictions-a2.csv",
+      "description": "10 frozen validation repeats, 1,275 held-out cells per repeat. These are validation results, not uncertainty bounds.",
+      "rows": 12750,
+      "unit": "log10 concentration (nM)",
+      "sha256": "d7f6a9d2cc0a67ec6aab4deed0f11e5e35ccd3bacf92925578c3e4705ff48ab2"
+    },
+    {
+      "name": "validation_summary",
+      "label": "Imputation validation summary",
+      "url": "/downloads/imputation-validation-summary-a2.csv",
+      "description": "Original validation metrics for repeats 1–10 and the pooled overall row.",
+      "rows": 11,
+      "unit": "R² / r: dimensionless; RMSE / MAE: log10(nM)",
+      "sha256": "e8583d7618057a30ebe863fb536cefa5eca657b522cb91104ce40d2e000db824"
+    },
+    {
+      "name": "city_totals",
+      "label": "City-level total BEQ",
+      "url": "/downloads/city-beq-totals-nt52-a2.csv",
+      "description": "Frozen totals across the fixed panel of 52 target chemicals for each of 117 urban areas.",
+      "rows": 117,
+      "unit": "μg/L narciclasine-EQ",
+      "sha256": "5a8c892555d8c87bd4fcc52e5f20d0120447d89edb66741ed7b046bd0aac92b2"
+    },
+    {
+      "name": "dictionary",
+      "label": "Frozen reference data dictionary",
+      "url": "/downloads/data-dictionary.md",
+      "description": "Reference fields, units, identity corrections and distinction from custom model scenarios.",
+      "rows": null,
+      "unit": "documentation",
+      "sha256": "484ce44838c62665cd67add78f473b93e41126a154de18f7d3e46bd6bedf65bd"
+    }
+  ],
+  "generatedAtUTC": "2026-10-05T00:37:04.722564+08:00",
+  "provenance": {
+    "sources": [
+      {
+        "key": "cities",
+        "path": "【投稿版本】/WPN_code/data_raw/preparation/cohort/city_metadata.csv",
+        "sha256": "e536aefe22ef70f714d5a4ee6d64048be6eb527d6077b02aabc32933c8f8078b",
+        "bytes": 13982,
+        "rows": 117
+      },
+      {
+        "key": "chemicals",
+        "path": "【投稿版本】/WPN_code/data_raw/preparation/cohort/chemical_metadata.csv",
+        "sha256": "13f45bce955df1c9b8d1ff4e7275b0ea9b596845e429307fa9491922bc0f820d",
+        "bytes": 56503,
+        "rows": 663
+      },
+      {
+        "key": "concentrations",
+        "path": "【投稿版本】/WPN_code/results/Step2/A2_after_supplement/matrices/concentration_long_final_imputed_nM.csv",
+        "sha256": "93928c58eeca952d1fd2b67c16cc43a332fcfce40e51d524ea96f5aa2fd2aaa0",
+        "bytes": 9839247,
+        "rows": 77571
+      },
+      {
+        "key": "ranks",
+        "path": "【投稿版本】/WPN_code/results/Step4/A2_predictions/chemical_summary_and_ranks_REP52.csv",
+        "sha256": "d00733b04e277416ca1db2ceac2d4fe8adf37c43a531c4554d6f466d786e1ca8",
+        "bytes": 69152,
+        "rows": 312
+      },
+      {
+        "key": "city_metrics",
+        "path": "【投稿版本】/WPN_code/results/Step4/A2_predictions/step10a_gub_city_chemical_cb_rep_beq_with_cb_nM.csv",
+        "sha256": "ee39b84ac621ff3000257d026080ab7aa9fbc37bca4f0b84dcd0959a5a098ccb",
+        "bytes": 7553856,
+        "rows": 6084
+      },
+      {
+        "key": "validation_predictions",
+        "path": "【投稿版本】/WPN_code/results/Step2/A2_after_supplement/imputation/validation_predictions.csv",
+        "sha256": "d7f6a9d2cc0a67ec6aab4deed0f11e5e35ccd3bacf92925578c3e4705ff48ab2",
+        "bytes": 1029452,
+        "rows": 12750
+      },
+      {
+        "key": "validation_summary",
+        "path": "【投稿版本】/WPN_code/results/Step2/A2_after_supplement/imputation/validation_summary.csv",
+        "sha256": "e8583d7618057a30ebe863fb536cefa5eca657b522cb91104ce40d2e000db824",
+        "bytes": 1022,
+        "rows": 11
+      },
+      {
+        "key": "city_totals",
+        "path": "【投稿版本】/WPN_code/results/Step4/A2_predictions/city_summary_BEQ_ugL.csv",
+        "sha256": "5a8c892555d8c87bd4fcc52e5f20d0120447d89edb66741ed7b046bd0aac92b2",
+        "bytes": 4234,
+        "rows": 117
+      },
+      {
+        "key": "manuscript",
+        "path": "Main Text_20261004_fn.docx",
+        "sha256": "d5da49d7afc9d14cdc3f5f1a7b23f3036d3271d6f68e97ea112d1ba5d0bca39f",
+        "bytes": 50065248
+      },
+      {
+        "key": "supplement",
+        "path": "SM_20261004_fn.docx",
+        "sha256": "8fc2c0e792ec29c54f15e1fc313a0a1131fdd7db62ed0a596d673b8da9922e44",
+        "bytes": 18108375
+      }
+    ],
+    "generatedFiles": [
+      {
+        "name": "cities.json",
+        "sha256": "763997592f0cedf964ec9a23ed3042d13410ec8a24b9b1be51603f5371a6c498",
+        "bytes": 12658
+      },
+      {
+        "name": "chemicals.json",
+        "sha256": "203332e158b879cf16d325a1722fed3568f4a5d4e8ef9d56d8894c466dbce355",
+        "bytes": 62717
+      },
+      {
+        "name": "concentrations.json",
+        "sha256": "fdf538ace39b207c6881206905f2f5a1d73df2a5ec38a6517d8a481a31a17ca1",
+        "bytes": 12580776
+      },
+      {
+        "name": "ranks.json",
+        "sha256": "7486ee25062889009672e6543a870a7c0a525eeced2c85dc30dcad7ef7669974",
+        "bytes": 29508
+      },
+      {
+        "name": "city-metrics.json",
+        "sha256": "880fe10323a8b8d3aa50f9f66510057b14615eee6d335157a8cc3be5becce0d0",
+        "bytes": 973071
+      },
+      {
+        "name": "validation.json",
+        "sha256": "d049f22cb09d3e208d7037cc6dae498cce97f7f06a430cf6507c9017209005b6",
+        "bytes": 1809114
+      }
+    ],
+    "preparationScript": "tools/prepare_data.py",
+    "preparationScriptSHA256": "6898d0ff10ee09cc84ea81d3d6b4c73fb18173383be7d53e370d8916f6cb2f2d"
+  },
+  "validation": {
+    "status": "passed",
+    "reportUrl": "/data/validation-report.json",
+    "checksPassed": 23,
+    "bitMeanBEQContributionPercent": 92.02854973515691,
+    "maximumCityBEQAbsoluteDifference": 1.6940658945086007E-21
+  },
+  "defaults": {
+    "chemicalPanel": "NT52",
+    "rankMetric": "BEQ_ugL",
+    "rankStatistic": "mean",
+    "validationScale": "log10(nM)"
+  },
+  "manuscriptVersion": "2026-10-04 BW",
+  "manuscriptVersionNote": "Current prose and figures: BW documents, recorded in src/content/content-provenance.json. Original numeric-data generation provenance is retained as historical evidence; frozen CSV bytes are unchanged.",
+  "documentationUpdate": {
+    "date": "2026-10-10",
+    "dictionarySHA256": "484ce44838c62665cd67add78f473b93e41126a154de18f7d3e46bd6bedf65bd",
+    "preparationScriptAfterDocumentationUpdateSHA256": "ab0e21915802bf03868432d32f8e6ecb3d3d1253fff2e2727aef941c44e07ca0",
+    "scope": "Updated documentation references for CPU delivery; frozen CSV data and original generation provenance unchanged."
+  }
+}

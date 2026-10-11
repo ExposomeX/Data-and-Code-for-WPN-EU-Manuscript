@@ -1,0 +1,13 @@
+{
+  "filename": "WPN-local-code.zip",
+  "bytes": 96514127,
+  "sha256": "adc37538564b70de0c2d5f055df481af9bde9832340303de4f5af1595f07e3e2",
+  "version": "2026-10-10-cpu-2",
+  "modelVersion": "2026-10-09-cpu-1",
+  "builtAt": "2026-10-09T18:08:46.313738+00:00",
+  "inputFile": "inputs/concentrations.xlsx",
+  "runFile": "Run_WPN.bat",
+  "setupFile": "Setup_WPN.bat",
+  "python": "3.12",
+  "device": "CPU"
+}
