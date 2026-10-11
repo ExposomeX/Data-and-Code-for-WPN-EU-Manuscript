@@ -1,0 +1,5 @@
+﻿feature_name,standardized
+ww_concentration_uM_log10,False
+fhlb_ifsqsar,True
+logSoliquid_ifsqsar,True
+logSwliquid_ifsqsar,True

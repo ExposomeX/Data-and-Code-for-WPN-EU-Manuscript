@@ -1,0 +1,23 @@
+{
+  "version": "2026-10-09-cpu-1",
+  "modelLabel": "WPN WW-DE / TabPFN 2.6 / fitted 472 chemicals",
+  "dataVersion": "2026-09-25 A2; manuscript 2026-10-04",
+  "device": "cpu",
+  "features": [
+    "ww_concentration_uM_log10",
+    "fhlb_ifsqsar",
+    "logSoliquid_ifsqsar",
+    "logSwliquid_ifsqsar"
+  ],
+  "trainingChemicals": 472,
+  "targetUnit": "umol/day",
+  "checkpointSource": "https://huggingface.co/Prior-Labs/tabpfn_2_6",
+  "sha256": {
+    "model.joblib": "5eb1ee0034d641c24297ec57ebfc26a3bd6b708515ca86cc62e9dbaf5edfd5c2",
+    "imputer.joblib": "e49a1e7cf278348e6d528ddffb123b893d375005a0e4357247ad3cdbb2ec100d",
+    "scaler.joblib": "0a760637dea6ce945524d46f0b805f8ab0041934f476887856da6cb0ff0c981c",
+    "feature_columns.csv": "ccb47a3f73ca725b548656588330d3931ebbcae96c98ad20751a2b5032efa560",
+    "feature_preprocessing.csv": "75997da9e29ce45e96f837878780e5a17e93b7f186a68d1e77cbb91e21f06f20",
+    "tabpfn-v2.6-regressor-v2.6_default.ckpt": "c855169116d79d2c957a29107ffc04464555f39aec0eef90c90390f2c2b2008b"
+  }
+}

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "DMSMPAJRVJJAGA-UHFFFAOYSA-N",
+    "name": "1,2-Benzisothiazol-3(2H)-one",
+    "cas": "2634-33-5",
+    "synonyms": [
+      "1,2-Benzothiazol-3(2H)-one",
+      "1,2-Benzisothiazolin-3-one",
+      "1,2-benzothiazol-3-one",
+      "benzisothiazolone",
+      "Benzo[d]isothiazol-3(2H)-one",
+      "Benzo[d]isothiazol-3-one",
+      "1,2-Benzisothiazoline-3-one",
+      "Proxel",
+      "benzoisothiazol-3-one"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 2.005069574557394
+  },
+  {
+    "id": "OWRCNXZUPFZXOS-UHFFFAOYSA-N",
+    "name": "1,3-Diphenylguanidine",
+    "cas": "102-06-7",
+    "synonyms": [
+      "1,2-diphenylguanidine",
+      "Diphenylguanidine",
+      "N,N'-DIPHENYLGUANIDINE",
+      "Vulkazit",
+      "Accelerator D",
+      "Melaniline",
+      "s-Diphenylguanidine",
+      "Nocceler D"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 2.554189593041345
+  },
+  {
+    "id": "ONHFWHCMZAJCFB-UHFFFAOYSA-N",
+    "name": "1-Tetradecanamine, N,N-dimethyl-, N-oxide",
+    "cas": "3332-27-2",
+    "synonyms": [
+      "N,N-Dimethyltetradecan-1-amine N-oxide",
+      "Myristamine oxide",
+      "Myristyl Dimethylamine Oxide",
+      "Myristyldimethylamine oxide",
+      "N,N-dimethyltetradecan-1-amine oxide",
+      "Tetradecyldimethylamine oxide",
+      "N,N-Dimethyltetradecylamine N-oxide",
+      "AMMONYX MCO"
+    ],
+    "category": "Surfactants & quats",
+    "defaultWW": 0.0877697628473931
+  },
+  {
+    "id": "QRUDEWIWKLJBPS-UHFFFAOYSA-N",
+    "name": "1H-Benzotriazole",
+    "cas": "95-14-7",
+    "synonyms": [
+      "1,2,3-Benzotriazole",
+      "Benzotriazole",
+      "1H-Benzo[d][1,2,3]triazole",
+      "2H-Benzotriazole",
+      "Azimidobenzene",
+      "1H-1,2,3-Benzotriazole",
+      "Aziminobenzene",
+      "Benztriazole"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 19.065253027653423
+  },
+  {
+    "id": "UFBJCMHMOXMLKC-UHFFFAOYSA-N",
+    "name": "2,4-Dinitrophenol",
+    "cas": "51-28-5",
+    "synonyms": [
+      "Aldifen",
+      "Nitrophen",
+      "Nitrophene",
+      "Sulphur Black 1",
+      "Phenol, 2,4-dinitro-",
+      "Fenoxyl carbon N",
+      "Solfo Black B",
+      "Tertrosulphur PBR"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.1412234926106841
+  },
+  {
+    "id": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+    "name": "2,5,8,11,14-Pentaoxapentadecane",
+    "cas": "143-24-8",
+    "synonyms": [
+      "Tetraglyme",
+      "Tetraethylene glycol dimethyl ether",
+      "Dimethoxytetraethylene glycol",
+      "Glyme 5",
+      "Dimethoxytetraglycol",
+      "Ansul ether 181AT",
+      "Bis[2-(2-methoxyethoxy)ethyl] ether",
+      "Nissan uniox MM 200",
+      "1-methoxy-2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethane"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 0.6176866218885105
+  },
+  {
+    "id": "UTBVIMLZIRIFFR-UHFFFAOYSA-N",
+    "name": "2-(Methylthio)benzothiazole",
+    "cas": "615-22-5",
+    "synonyms": [
+      "2-(Methylsulfanyl)-1,3-benzothiazole",
+      "2-Methylmercaptobenzothiazole",
+      "2-(Methylthio)benzo[d]thiazole",
+      "2-METHYLTHIOBENZOTHIAZOLE",
+      "2-(Methylmercapto)benzothiazole",
+      "2-methylsulfanyl-1,3-benzothiazole",
+      "Benzothiazole, 2-(methylthio)-",
+      "MTBT"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 7.132393072834518
+  },
+  {
+    "id": "ZCXGMSGCBDSEOY-UHFFFAOYSA-N",
+    "name": "2-Benzothiazolesulfonic acid",
+    "cas": "941-57-1",
+    "synonyms": [
+      "1,3-Benzothiazole-2-sulfonic acid",
+      "Benzothiazole-2-sulfonic acid",
+      "benzo[d]thiazole-2-sulfonic acid",
+      "2-Benzothiazolesulfonicacid(6Ci,7Ci,8Ci,9Ci)",
+      "2-Benzothiazolsulfonic acid",
+      "benzthiazoline sulfonic acid"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 5.411066306211271
+  },
+  {
+    "id": "CGSLYBDCEGBZCG-UHFFFAOYSA-N",
+    "name": "2-ethylhexyldiphenylphosphate",
+    "cas": "1241-94-7",
+    "synonyms": [
+      "2-ethylhexyl diphenyl phosphate",
+      "Octicizer",
+      "Phosphoric acid, 2-ethylhexyl diphenyl ester",
+      "Santicizer 141",
+      "Octicizer [USAN]",
+      "(2-Ethylhexyl)-difenylfosfat",
+      "Diphenyl 2-ethylhexyl phosphate",
+      "Phosphoric acid diphenyl 2-ethylhexyl ester",
+      "2-ethylhexyl-diphenyl phosphate"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 0.0536369149390574
+  },
+  {
+    "id": "YEDUAINPPJYDJZ-UHFFFAOYSA-N",
+    "name": "2-hydroxybenzothiazole",
+    "cas": "934-34-9",
+    "synonyms": [
+      "3H-1,3-benzothiazol-2-one",
+      "Benzothiazolone",
+      "2-Benzothiazolol",
+      "2(3H)-Benzothiazolone",
+      "1,3-Benzothiazol-2-ol",
+      "2-Benzothiazolone",
+      "benzothiazolol",
+      "2-Benzothiazolinone",
+      "3H-Benzothiazol-2-one"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.8992758203606432
+  },
+  {
+    "id": "KVBGVZZKJNLNJU-UHFFFAOYSA-N",
+    "name": "2-Naphthalenesulfonic acid",
+    "cas": "120-18-3",
+    "synonyms": [
+      "Naphthalene-2-sulfonic acid",
+      "beta-Naphthylsulfonic acid",
+      "beta-Naphthalenesulfonic acid",
+      "Naphthalene-2-sulphonic acid",
+      "2-Naphthalene Sulfonic Acid",
+      "Kyselina 2-naftalensulfonova",
+      "2-Naphthylsulfonic acid",
+      "2-Naphthalenesulfonic acid, monohydrate"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 1.3683537542168704
+  },
+  {
+    "id": "OIAGWXKSCXPNNZ-UHFFFAOYSA-N",
+    "name": "4-Acetamidoantipyrine",
+    "cas": "83-15-8",
+    "synonyms": [
+      "N-(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)acetamide",
+      "4-Acetaminoantipyrine",
+      "4-Acetylaminoantipyrine",
+      "4-Acetylaminophenazone",
+      "Acetamidoantipyrine",
+      "Acetylaminoantipyrine",
+      "4-Acetoaminoantipyrine",
+      "4-Acetamido Antipyrine",
+      "Antipyrine, 4-acetamido-",
+      "4-AAA",
+      "N-Acetyl-4-amino-antiyirine"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 1.7468036643597906
+  },
+  {
+    "id": "PMZDQRJGMBOQBF-UHFFFAOYSA-N",
+    "name": "4-Hydroxyquinoline",
+    "cas": "611-36-9",
+    "synonyms": [
+      "1H-quinolin-4-one",
+      "Quinolin-4-ol",
+      "4-Quinolinol",
+      "quinolin-4(1H)-one",
+      "4(1H)-Quinolinone",
+      "Kynurine",
+      "4-Quinolone"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.4610227317817804
+  },
+  {
+    "id": "LXOFYPKXCSULTL-UHFFFAOYSA-N",
+    "name": "5-Decyne-4,7-diol, 2,4,7,9-tetramethyl-",
+    "cas": "126-86-3",
+    "synonyms": [
+      "2,4,7,9-Tetramethyldec-5-yne-4,7-diol",
+      "2,4,7,2,4,7,9-Tetramethyl-5-decyne-4,7-diol",
+      "2,4,7,9-TETRAMETHYL-5-DECYNE-4,7-DIOL",
+      "Surfynol 104",
+      "TETRAMETHYL DECYNEDIOL",
+      "Surfynol 104A",
+      "Surfynol 104E",
+      "Syrfynol 104",
+      "1,4-Diisobutyl-1,4-dimethylbutynediol"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 0.6207378595863746
+  },
+  {
+    "id": "AFYCEAFSNDLKSX-UHFFFAOYSA-N",
+    "name": "7-Diethylamino-4-methylcoumarin",
+    "cas": "91-44-1",
+    "synonyms": [
+      "7-(diethylamino)-4-methylchromen-2-one",
+      "Coumarin 1",
+      "7-(Diethylamino)-4-methyl-2H-chromen-2-one",
+      "Coumarin 460",
+      "Coumarin 47",
+      "7-(Diethylamino)-4-methylcoumarin",
+      "4-Methyl-7-(diethylamino)coumarin",
+      "Diethylaminomethylcoumarin",
+      "2H-1-Benzopyran-2-one, 7-(diethylamino)-4-methyl-"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.1103772108680119
+  },
+  {
+    "id": "LLEMOWNGBBNAJR-UHFFFAOYSA-N",
+    "name": "[1,1'-Biphenyl]-2-ol",
+    "cas": "90-43-7",
+    "synonyms": [
+      "2-Phenylphenol",
+      "2-Hydroxybiphenyl",
+      "O-PHENYLPHENOL",
+      "Biphenyl-2-ol",
+      "2-Biphenylol",
+      "o-Hydroxybiphenyl",
+      "2-Hydroxydiphenyl",
+      "o-Hydroxydiphenyl",
+      "Biphenylol"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.0792757595690602
+  },
+  {
+    "id": "RLFWWDJHLFCNIJ-UHFFFAOYSA-N",
+    "name": "Ampyrone",
+    "cas": "83-07-8",
+    "synonyms": [
+      "4-amino-1,5-dimethyl-2-phenylpyrazol-3-one",
+      "4-Aminoantipyrine",
+      "4-Aminophenazone",
+      "Metapirazone",
+      "Aminoantipyrine",
+      "4-Aminoantipyrene",
+      "Aminoantipyrin",
+      "Solvapyrin-A",
+      "Aminoazophene",
+      "4-AA",
+      "4-amino-antipyrine"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 1.1586895070947698
+  },
+  {
+    "id": "VEQOALNAAJBPNY-UHFFFAOYSA-N",
+    "name": "Antipyrine",
+    "cas": "60-80-0",
+    "synonyms": [
+      "1,5-Dimethyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-one",
+      "Phenazone",
+      "Antipyrin",
+      "Phenazon",
+      "Analgesine",
+      "Anodynin",
+      "Anodynine",
+      "Fenazone",
+      "Azophen"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.3606604670731685
+  },
+  {
+    "id": "MXWJVTOOROXGIU-UHFFFAOYSA-N",
+    "name": "Atrazine",
+    "cas": "1912-24-9",
+    "synonyms": [
+      "6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",
+      "Gesaprim",
+      "Oleogesaprim",
+      "Aktikon",
+      "Atranex",
+      "Chromozin",
+      "Atazinax",
+      "Atrasine",
+      "Gesoprim"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 0.060729264331318
+  },
+  {
+    "id": "DFWFIQKMSFGDCQ-UHFFFAOYSA-N",
+    "name": "Atrazine-desethyl",
+    "cas": "6190-65-4",
+    "synonyms": [
+      "6-chloro-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",
+      "Deethylatrazine",
+      "DESETHYL ATRAZINE",
+      "4-Deethylatrazine",
+      "Deethylatrazin",
+      "Desethylatrazine",
+      "6-Chloro-N2-isopropyl-1,3,5-triazine-2,4-diamine",
+      "Des-ethyl atrazine",
+      "2-Chloro-4-amino-6-(isopropylamino)-s-triazine"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 0.080016069468425
+  },
+  {
+    "id": "IOJUPLGTWVMSFF-UHFFFAOYSA-N",
+    "name": "Benzothiazole",
+    "cas": "95-16-9",
+    "synonyms": [
+      "1,3-Benzothiazole",
+      "BENZO[D]THIAZOLE",
+      "Benzosulfonazole",
+      "1-Thia-3-azaindene",
+      "Vangard BT",
+      "benzothiazol",
+      "USAF EK-4812"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 6.4390124834021725
+  },
+  {
+    "id": "QDYLMAYUEZBUFO-UHFFFAOYSA-N",
+    "name": "Benzyl hexadecyl dimethyl ammonium",
+    "cas": "10328-34-4",
+    "synonyms": [
+      "benzyl-hexadecyl-dimethylazanium",
+      "benzyldimethylhexadecylammonium",
+      "Cetalkonium",
+      "Cetalkonium ion",
+      "Cetalkonium cation",
+      "Cetyldimethylbenzylammonium",
+      "Benzylcetyldimethylammonium",
+      "benzylhexadecyldimethylammonium",
+      "Benzenemethanaminium, N-hexadecyl-N,N-dimethyl-"
+    ],
+    "category": "Surfactants & quats",
+    "defaultWW": 3.330632936474036
+  },
+  {
+    "id": "WNBGYVXHFTYOBY-UHFFFAOYSA-N",
+    "name": "Benzyldimethyltetradecylammonium",
+    "cas": "16287-71-1",
+    "synonyms": [
+      "benzyl-dimethyl-tetradecylazanium",
+      "Benzyldimethyltetradecylammonium, tetradecylbenzyldimethylammonium",
+      "Myristalkonium",
+      "Zephiramine ion",
+      "Zephiramine cation",
+      "Myristalkonium ion",
+      "Myristalkonium cation",
+      "Myristyl-benzalkonium",
+      "MIRISTALKONIUM"
+    ],
+    "category": "Surfactants & quats",
+    "defaultWW": 0.7851630064677197
+  },
+  {
+    "id": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+    "name": "Bisphenol A",
+    "cas": "80-05-7",
+    "synonyms": [
+      "4-[2-(4-hydroxyphenyl)propan-2-yl]phenol",
+      "2,2-Bis(4-hydroxyphenyl)propane",
+      "4,4'-Isopropylidenediphenol",
+      "Diphenylolpropane",
+      "4,4'-Bisphenol A",
+      "Bisphenol",
+      "Diano",
+      "Bisphenol-A",
+      "2,2-Bis(p-hydroxyphenyl)propane",
+      "BPA"
+    ],
+    "category": "Bisphenols",
+    "defaultWW": 2.4005885237356424
+  },
+  {
+    "id": "VPWNQTHUCYMVMZ-UHFFFAOYSA-N",
+    "name": "Bisphenol S",
+    "cas": "80-09-1",
+    "synonyms": [
+      "4-(4-hydroxyphenyl)sulfonylphenol",
+      "4,4'-Sulfonyldiphenol",
+      "Bis(4-hydroxyphenyl) sulfone",
+      "Phenol, 4,4'-sulfonylbis-",
+      "4,4'-Dihydroxydiphenyl sulfone",
+      "4-Hydroxyphenyl sulfone",
+      "Bis(p-hydroxyphenyl) sulfone",
+      "4,4'-Sulfonylbisphenol"
+    ],
+    "category": "Bisphenols",
+    "defaultWW": 0.4147316258806816
+  },
+  {
+    "id": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+    "name": "Caffeine",
+    "cas": "58-08-2",
+    "synonyms": [
+      "1,3,7-trimethylpurine-2,6-dione",
+      "Guaranine",
+      "1,3,7-Trimethylxanthine",
+      "Methyltheobromine",
+      "Theine",
+      "Thein",
+      "Cafeina",
+      "Koffein",
+      "Mateina"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 6.256726894409334
+  },
+  {
+    "id": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+    "name": "Carbamazepine",
+    "cas": "298-46-4",
+    "synonyms": [
+      "benzo[b][1]benzazepine-11-carboxamide",
+      "Tegretol",
+      "Carbamazepen",
+      "Biston",
+      "Finlepsin",
+      "Equetro",
+      "Tegretal",
+      "5H-Dibenzo[b,f]azepine-5-carboxamide",
+      "Carbazepine"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 1.0292806273114865
+  },
+  {
+    "id": "PGOOBECODWQEAB-UHFFFAOYSA-N",
+    "name": "Clothianidin",
+    "cas": "210880-92-5",
+    "synonyms": [
+      "1-[(2-chloro-1,3-thiazol-5-yl)methyl]-2-methyl-3-nitroguanidine",
+      "(E)-clothianidin",
+      "Clothianidin [ISO]",
+      "CLOTHIANIDINE",
+      "TI-435"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 0.0459720979263889
+  },
+  {
+    "id": "UIKROCXWUNQSPJ-VIFPVBQESA-N",
+    "name": "Cotinine",
+    "cas": "486-56-6",
+    "synonyms": [
+      "(5S)-1-methyl-5-pyridin-3-ylpyrrolidin-2-one",
+      "(-)-Cotinine",
+      "(S)-Cotinine",
+      "Cotinina",
+      "Cotininum",
+      "(S)-(-)-Cotinine",
+      "Cotinine [INN]",
+      "Cotinine (-)",
+      "(S)-1-methyl-5-(pyridin-3-yl)pyrrolidin-2-one"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.8265468820221064
+  },
+  {
+    "id": "HCAJEUSONLESMK-UHFFFAOYSA-N",
+    "name": "cyclamate",
+    "cas": "100-88-9",
+    "synonyms": [
+      "cyclohexylsulfamic acid",
+      "Cyclamic acid",
+      "Cyclohexanesulfamic acid",
+      "N-Cyclohexylsulfamic acid",
+      "Hexamic acid",
+      "Sucaryl",
+      "Sucaryl acid",
+      "Cyclohexylaminesulphonic acid"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 6.157191517371099
+  },
+  {
+    "id": "XBPCUCUWBYBCDP-UHFFFAOYSA-N",
+    "name": "Cyclohexanamine, N-cyclohexyl-",
+    "cas": "101-83-7",
+    "synonyms": [
+      "N-Cyclohexylcyclohexanamine",
+      "Dicyclohexylamine",
+      "DCHA",
+      "Dicha",
+      "N,N-Dicyclohexylamine",
+      "Dodecahydrodiphenylamine",
+      "Dicyklohexylamin",
+      "N,N-Diclohexylamine"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 0.5923352547747037
+  },
+  {
+    "id": "YVGGHNCTFXOJCH-UHFFFAOYSA-N",
+    "name": "DDT",
+    "cas": "50-29-3",
+    "synonyms": [
+      "1-chloro-4-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene",
+      "Dichlorodiphenyltrichloroethane (DDT)",
+      "P,P-DDT",
+      "p,p'-Dichlorodiphenyltrichloroethane, 4,4-DDT",
+      "Clofenotane",
+      "p,p'-DDT",
+      "Chlorophenothane",
+      "dichlorodiphenyltrichloroethane",
+      "Dicophane",
+      "4,4'-DDT",
+      "Chlorphenothan",
+      "Chlorphenotoxum",
+      "pp-DDT"
+    ],
+    "category": "Halogenated persistent organics",
+    "defaultWW": 0.003488812590144
+  },
+  {
+    "id": "FLKPEMZONWLCSK-UHFFFAOYSA-N",
+    "name": "Diethyl phthalate",
+    "cas": "84-66-2",
+    "synonyms": [
+      "diethyl benzene-1,2-dicarboxylate",
+      "Ethyl phthalate",
+      "phthalic acid diethyl ester",
+      "Anozol",
+      "Diethylphthalate",
+      "Neantine",
+      "Phthalol",
+      "Solvanol",
+      "DMP",
+      "DEP"
+    ],
+    "category": "Phthalates",
+    "defaultWW": 0.0436864958124693
+  },
+  {
+    "id": "LGHZJDKSVUTELU-UHFFFAOYSA-N",
+    "name": "Fipronil sulfone",
+    "cas": "120068-36-2",
+    "synonyms": [
+      "5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfonyl)pyrazole-3-carbonitrile",
+      "FIPRONIL-SULFONE",
+      "fipronil sulphone",
+      "M & B 46136",
+      "1H-Pyrazole-3-carbonitrile, 5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-((trifluoromethyl)sulfonyl)-",
+      "1-(2,6-Dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethanesulfonyl-5-aminopyrazole",
+      "5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfonyl]-1H-pyrazole-3-carbonitrile"
+    ],
+    "category": "Halogenated persistent organics",
+    "defaultWW": 0.0033426282582864
+  },
+  {
+    "id": "UGJMXCAKCUNAIE-UHFFFAOYSA-N",
+    "name": "Gabapentin",
+    "cas": "60142-96-3",
+    "synonyms": [
+      "[1-(Aminomethyl)cyclohexyl]acetic acid",
+      "Neurontin",
+      "Gabapentine",
+      "1-(Aminomethyl)cyclohexaneacetic acid",
+      "Aclonium",
+      "Gabapetin",
+      "Gabapentinum",
+      "2-[1-(aminomethyl)cyclohexyl]acetic acid",
+      "Gabapentino"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 17.37805617388416
+  },
+  {
+    "id": "BNCADMBVWNPPIZ-UHFFFAOYSA-N",
+    "name": "Hexa(methoxymethyl)melamine",
+    "cas": "3089-11-0",
+    "synonyms": [
+      "N~2~,N~2~,N~4~,N~4~,N~6~,N~6~-Hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine",
+      "2,4,6-Tris[bis(methoxymethyl)amino]-1,3,5-triazine",
+      "Metazin",
+      "HEXAKIS(METHOXYMETHYL)MELAMINE",
+      "Hexamethyl methylolmelamine",
+      "1,3,5-Triazine-2,4,6-triamine, N,N,N',N',N'',N''-hexakis(methoxymethyl)-",
+      "Melamine, hexakis(methoxymethyl)-",
+      "Hexamethylolmelamine hexamethyl ether",
+      "N,N,N',N',N'',N''-Hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 3.723799906856117
+  },
+  {
+    "id": "RLGQACBPNDBWTB-UHFFFAOYSA-N",
+    "name": "Hexadecyltrimethylammonium",
+    "cas": "6899-10-1",
+    "synonyms": [
+      "hexadecyl(trimethyl)azanium",
+      "Cetyltrimethylammonium, HEXADECYLTRIMETHYLAMMONIUM, cetrimonium, Cetyltrimethylammonium ion",
+      "cetrimonium",
+      "Cetyltrimethylammonium",
+      "Cetyltrimethylammonium cation",
+      "Hexadecyltrimethylammonium ion",
+      "Trimethylhexadecylammonium",
+      "Cetyltrimethylammonium ion",
+      "CETYL-TRIMETHYL-AMMONIUM",
+      "Cetrimonum"
+    ],
+    "category": "Surfactants & quats",
+    "defaultWW": 4.347448618750755
+  },
+  {
+    "id": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+    "name": "Ibuprofen",
+    "cas": "15687-27-1",
+    "synonyms": [
+      "2-[4-(2-methylpropyl)phenyl]propanoic acid",
+      "RefChem:6648",
+      "2-(4-Isobutylphenyl)propanoic acid",
+      "Motrin",
+      "Brufen",
+      "Advil",
+      "Nurofen",
+      "Dolgit",
+      "Liptan",
+      "Medipren"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.4002471851770197
+  },
+  {
+    "id": "YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+    "name": "Imidacloprid",
+    "cas": "138261-41-3",
+    "synonyms": [
+      "(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide",
+      "N-[1-[(6-chloro-3-pyridinyl)methyl]-4,5-dihydroimidazol-2-yl]nitramide",
+      "N-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide",
+      "IMIDACLOPRID [MI]",
+      "1-((6-chloro-3-pyridinyl)methyl)-n-nitro-4,5-dihydro-1h-imidazol-2-amine",
+      "IMIDACLOPRID [HSDB]",
+      "IMIDACLOPRID [GREEN BOOK]"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.1362713483996386
+  },
+  {
+    "id": "AOMUHOFOVNGZAN-UHFFFAOYSA-N",
+    "name": "Lauryl diethanolamide",
+    "cas": "120-40-1",
+    "synonyms": [
+      "N,N-Bis(2-hydroxyethyl)dodecanamide",
+      "Lauric diethanolamide",
+      "Lauramide DEA",
+      "Lauric acid diethanolamide",
+      "Lauroyl diethanolamide",
+      "Standamidd ld",
+      "Alkamide LE",
+      "Rolamid cd"
+    ],
+    "category": "Surfactants & quats",
+    "defaultWW": 0.441545304945626
+  },
+  {
+    "id": "MOTZDAYCYVMXPC-UHFFFAOYSA-N",
+    "name": "Lauryl sulfate",
+    "cas": "151-41-7",
+    "synonyms": [
+      "Dodecyl hydrogen sulfate",
+      "DODECYL SULFATE",
+      "Lauryl sulphate",
+      "Sulfuric acid, monododecyl ester",
+      "N-Dodecyl sulfate",
+      "Monododecyl hydrogen sulfate",
+      "Lauryl sulfuric acid",
+      "Dodecyl hydrogen sulphate"
+    ],
+    "category": "Surfactants & quats",
+    "defaultWW": 14.134789490291894
+  },
+  {
+    "id": "SECXISVLQFMRJM-UHFFFAOYSA-N",
+    "name": "N-Methyl-2-pyrrolidone",
+    "cas": "872-50-4",
+    "synonyms": [
+      "1-methylpyrrolidin-2-one",
+      "1-METHYL-2-PYRROLIDINONE",
+      "N-Methylpyrrolidone",
+      "Methylpyrrolidone",
+      "N-Methyl-2-pyrrolidinone",
+      "1-Methyl-2-pyrrolidone",
+      "M-Pyrol",
+      "1-Methylpyrrolidone"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 4.727814429828538
+  },
+  {
+    "id": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+    "name": "PFOA",
+    "cas": "335-67-1",
+    "synonyms": [
+      "Perfluorooctanoic acid",
+      "Pentadecafluorooctanoic acid",
+      "Perfluorocaprylic acid",
+      "2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid",
+      "Octanoic acid, pentadecafluoro-",
+      "Perfluoroctanoic acid",
+      "Perfluoro-n-octanoic acid",
+      "Perfluoroheptanecarboxylic acid"
+    ],
+    "category": "PFAS",
+    "defaultWW": 0.0199916772094577
+  },
+  {
+    "id": "MXXWOMGUGJBKIW-YPCIICBESA-N",
+    "name": "Piperine",
+    "cas": "94-62-2",
+    "synonyms": [
+      "(2E,4E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-2,4-dien-1-one",
+      "1-Piperoylpiperidine",
+      "Piperin",
+      "Bioperine",
+      "Piperoylpiperidine",
+      "(E,E)-1-piperoylpiperidine",
+      "Piperidine, 1-piperoyl-, (E,E)-"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.173877220231143
+  },
+  {
+    "id": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+    "name": "Salicylic acid",
+    "cas": "69-72-7",
+    "synonyms": [
+      "2-Hydroxybenzoic acid",
+      "o-hydroxybenzoic acid",
+      "2-Carboxyphenol",
+      "o-Carboxyphenol",
+      "Rutranex",
+      "Salonil",
+      "Retarder W",
+      "Duoplant"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.4772225761481216
+  },
+  {
+    "id": "WTLBZVNBAKMVDP-UHFFFAOYSA-N",
+    "name": "Tboep",
+    "cas": "78-51-3",
+    "synonyms": [
+      "tris(2-butoxyethyl) phosphate",
+      "Tributoxyethyl phosphate",
+      "TBEP",
+      "TRI(2-BUTOXYETHYL) PHOSPHATE",
+      "Phosflex T-bep",
+      "Tris(butoxyethyl) phosphate",
+      "tris(2-butoxyethyl)phosphate",
+      "KP 140",
+      "Kronitex KP-140"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 0.9200029110839514
+  },
+  {
+    "id": "DOOTYTYQINUNNV-UHFFFAOYSA-N",
+    "name": "Triethyl citrate",
+    "cas": "77-93-0",
+    "synonyms": [
+      "Triethyl 2-hydroxypropane-1,2,3-tricarboxylate",
+      "Ethyl citrate",
+      "Citroflex 2",
+      "Eudraflex",
+      "Hydragen CAT",
+      "Citric acid, triethyl ester",
+      "1,2,3-Propanetricarboxylic acid, 2-hydroxy-, triethyl ester",
+      "Triaethylcitrat"
+    ],
+    "category": "Small polar organics (non-halogenated)",
+    "defaultWW": 0.5660271116028234
+  },
+  {
+    "id": "HRKAMJBPFPHCSD-UHFFFAOYSA-N",
+    "name": "Triisobutyl phosphate",
+    "cas": "126-71-6",
+    "synonyms": [
+      "tris(2-methylpropyl) phosphate",
+      "Tri-isobutylphosphate",
+      "tri-isobutyl phosphate",
+      "Isobutyl phosphate",
+      "Phosphoric acid, tris(2-methylpropyl) ester",
+      "Phosphoric acid, triisobutyl ester"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 1.1242560498168277
+  },
+  {
+    "id": "ASLWPAWFJZFCKF-UHFFFAOYSA-N",
+    "name": "Tris(1,3-dichloro-2-propyl) phosphate",
+    "cas": "13674-87-8",
+    "synonyms": [
+      "Tris(1,3-dichloropropan-2-yl) phosphate",
+      "TDCPP",
+      "Tris(1,3-dichloro-2-propyl)phosphate",
+      "Fyrol FR 2",
+      "Tris(1,3-dichloroisopropyl)phosphate",
+      "Emulsion 212",
+      "Phosphoric Acid Tris(1,3-dichloro-2-propyl) Ester",
+      "TDCIPP"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 0.3361191039134278
+  },
+  {
+    "id": "KVMPUXDNESXNOH-UHFFFAOYSA-N",
+    "name": "Tris(1-chloro-2-propyl)phosphate",
+    "cas": "13674-84-5",
+    "synonyms": [
+      "Tris(1-chloropropan-2-yl) phosphate",
+      "Tris(2-chloroisopropyl)phosphate",
+      "Tris(1-chloro-2-propyl) phosphate",
+      "Amgard TMCP",
+      "Tris(2-chloro-1-methylethyl) phosphate",
+      "Hostaflam OP 820",
+      "2-Propanol, 1-chloro-, phosphate (3:1)",
+      "TRIS(2-CHLOROISOPROPYL) PHOSPHATE"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 5.319798976647825
+  },
+  {
+    "id": "HQUQLFOMPYWACS-UHFFFAOYSA-N",
+    "name": "Tris(2-chloroethyl) phosphate",
+    "cas": "115-96-8",
+    "synonyms": [
+      "Tri(beta-chloroethyl) phosphate",
+      "Tris(2-chloroethyl) orthophosphate",
+      "Tris(2-chloroethyl)phosphate",
+      "Celluflex",
+      "Fyrol CEF",
+      "Disflamoll TCA",
+      "Celluflex CEF",
+      "Tris(chloroethyl) phosphate"
+    ],
+    "category": "Organophosphorus compounds",
+    "defaultWW": 0.2977326780879257
+  },
+  {
+    "id": "SGTNSNPWRIOYBX-UHFFFAOYSA-N",
+    "name": "Verapamil",
+    "cas": "52-53-9",
+    "synonyms": [
+      "2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile",
+      "Iproveratril",
+      "Dilacoran",
+      "Vasolan",
+      "Isoptimo",
+      "Isoptin",
+      "Verapamilo",
+      "Verapamilum",
+      "Falicard"
+    ],
+    "category": "Aromatic polar organics",
+    "defaultWW": 0.0422701532797802
+  }
+]
